@@ -65,17 +65,7 @@ Using Python for **programming, automation, AI, and projects**.
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=arish096\&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true)
 ---
 
 ## 🌐 Connect With Me
