@@ -63,12 +63,12 @@ Strengthening programming fundamentals through **C programming and problem-solvi
 Using Python for **programming, automation, AI, and projects**.
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arish096\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arish096\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
