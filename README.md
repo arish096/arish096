@@ -63,9 +63,12 @@ Strengthening programming fundamentals through **C programming and problem-solvi
 Using Python for **programming, automation, AI, and projects**.
 
 ---
-## 📊 GitHub Stats
+## 🚀 What I'm Working On
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true)
+🤖 AI Projects  
+🌐 Full Stack Web Applications  
+💻 C / C++ & DSA Practice  
+🐍 Python Projects
 ---
 
 ## 🌐 Connect With Me
