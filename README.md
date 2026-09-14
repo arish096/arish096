@@ -1,97 +1,123 @@
-# Hi there 👋 I'm Arish Islam
+# 👋 Hi, I'm Arish Islam
 
-### 💻 Developer | AI Enthusiast | Problem Solver
+### Web Developer | AI & Prompt Engineering | AI-Powered Applications
 
-I’m passionate about **Artificial Intelligence, Full Stack Web Development, C/C++, Python, and DSA**.
-I enjoy building projects, solving programming problems, and continuously learning new technologies.
+I build **AI-powered web applications, automation workflows, and practical developer projects**.
+Currently exploring **DSA in C++**, modern web development, and AI-powered software systems.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Build
 
-* 🤖 Interested in **Artificial Intelligence & AI Projects**
-* 🌐 Building **Full Stack Web Applications**
-* 💻 Practicing **C & C++ Programming**
-* 🧠 Learning and practicing **DSA**
-* 🐍 Working with **Python**
-* 🚀 Always learning and building new projects
+* 🤖 **AI-Powered Applications** — AI tools, assistants, and intelligent workflows
+* 🌐 **Web Applications** — Responsive and interactive websites
+* ⚙️ **AI Workflows & Automation** — Workflow automation using modern AI tools
+* 🧠 **Prompt Engineering** — Designing effective prompts and AI workflows
+* 💻 **DSA in C++** — Building strong problem-solving and programming fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Web Development
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+</p>
 
-### 🤖 AI & Data
+### Programming & Tools
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+</p>
 
-### 🌐 Full Stack Development
+### AI & Automation
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+**ChatGPT · Claude · Gemini · DeepSeek · Perplexity · Grok · n8n · Replit · Lovable · Antigravity · Emergent AI**
 
 ---
 
-## 📚 What I Work On
+## ⭐ Featured Projects
 
-### 🤖 AI Projects
+### ✈️ AI Radar — Live Flight Tracker
 
-Building AI-based applications and experimenting with **Generative AI, automation, and intelligent systems**.
+Real-time flight tracking application that visualizes live aircraft data on an interactive map.
 
-### 🌐 Full Stack Web Applications
+**Tech:** React · TypeScript · Node.js · Leaflet · OpenSky Network API · MCP
 
-Creating complete web applications using **frontend, backend, APIs, and databases**.
-
-### 💻 C++ / DSA Practice
-
-Solving programming problems and improving **logic, algorithms, data structures, and problem-solving skills**.
-
-### 🔵 C Programming
-
-Strengthening programming fundamentals through **C programming and problem-solving**.
-
-### 🐍 Python
-
-Using Python for **programming, automation, AI, and projects**.
-
----
-## 🚀 What I'm Working On
-
-🤖 AI Projects  
-🌐 Full Stack Web Applications  
-💻 C / C++ & DSA Practice  
-🐍 Python Projects
----
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arish096)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arishislam096@gmail.com)
+🔗 [View Project](https://github.com/arish096/AI-Radar---Live-Flight-Tracker-)
 
 ---
 
-### 🚀 Keep Learning. Keep Building. Keep Growing.
+### 🍎 Apple Support AI Agent
 
+AI-powered customer support system built for the **Hiver SDE Intern Take-Home Assignment**.
 
-<!--
-**arish096/arish096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Features include intent classification, historical case retrieval, evidence-grounded response generation, and **AUTO-HANDLE vs ESCALATE** decisions.
 
-Here are some ideas to get you started:
+**Tech:** Python · NLP · TF-IDF · Logistic Regression · Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [View Project](https://github.com/arish096/apple-support-ai-agent)
+
+---
+
+### 🩺 MedVitals.AI
+
+AI-powered medical education assistant supporting text, image, voice, and other multimodal interactions.
+
+**Tech:** Python · Streamlit · OpenRouter · AI APIs
+
+🔗 [View Project](https://github.com/arish096/MedVitals.AI)
+
+---
+
+### 🧠 DSA in C++
+
+A structured collection of my **Data Structures & Algorithms learning journey**, with topic-wise C++ implementations and regular practice.
+
+**Topics:** Functions · Arrays · Pointers · Searching · Sorting · Bit Manipulation · Data Structures
+
+🔗 [View Repository](https://github.com/arish096/DSA-IN-Cpp)
+
+---
+
+## 📈 Current Focus
+
+```text
+DSA in C++              ███████████████░░░  Learning
+Web Development         ████████████████░░  Building
+AI Applications         █████████████████░  Building
+Prompt Engineering      █████████████████░  Practicing
+Automation              ███████████████░░░  Exploring
+```
+
+---
+
+## 🎯 Currently Learning
+
+* Data Structures & Algorithms with C++
+* Advanced Web Development
+* AI-powered application development
+* AI Agents & Workflow Automation
+* Problem Solving
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/arish096">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a></p>
+
+---
+
+### 💡 My Approach
+
+> **Build. Learn. Experiment. Improve.**
+
+I believe the best way to learn technology is by **building real projects and solving real problems**.
+
+---
+
+⭐ If you find any of my projects useful or interesting, feel free to explore the repository and leave a star!
