@@ -21,9 +21,7 @@ Currently exploring **DSA in C++**, modern web development, and AI-powered softw
 
 ### Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
-</p>
+<p>   <img src="https://skillicons.dev/icons?i=html,css" /> </p>
 
 ### Programming & Tools
 
