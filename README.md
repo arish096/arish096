@@ -21,7 +21,9 @@ Currently exploring **DSA in C++**, modern web development, and AI-powered softw
 
 ### Web Development
 
-<p>   <img src="https://skillicons.dev/icons?i=html,css" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### Programming & Tools
 
@@ -79,6 +81,20 @@ A structured collection of my **Data Structures & Algorithms learning journey**,
 
 ---
 
+## 🌐 Visit My Portfolio
+
+<p align="center">
+  <a href="https://arish-islam-portfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Explore my projects, skills, experience, and web development work.</b>
+</p>
+
+---
+
 ## 📈 Current Focus
 
 ```text
@@ -101,12 +117,13 @@ Automation              ███████████████░░░  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://github.com/arish096">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a></p>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />   </a>  <a href="mailto:[arishislam096@gmail.com](mailto:arishislam096@gmail.com)">     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
