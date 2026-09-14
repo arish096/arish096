@@ -119,14 +119,8 @@ Automation              ███████████████░░░  
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/arish096">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:arishislam096@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+* 💻 **GitHub:** [arish096](https://github.com/arish096)
+* 📧 **Email:** [arishislam096@gmail.com](mailto:arishislam096@gmail.com)
 
 ---
 
