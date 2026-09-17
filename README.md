@@ -39,12 +39,14 @@ Currently exploring **DSA in C++**, modern web development, and AI-powered softw
 
 ## 🏆 Certifications
 
+## 🏆 Certifications
+
 ### Oracle – Agentic AI Certified Foundations Associate
 
-**Issued:** September 14, 2026
+**Issued:** September 14, 2026  
 **Credential ID:** 103539997AAI26OFA
 
-📜 [View Certificate](./Oracle-Agentic-AI-Certified-Foundations-Associate.pdf)
+<img src="./oracle-agentic-ai-certificate.png" alt="Oracle Agentic AI Certificate" width="800"/>
 
 ---
 
