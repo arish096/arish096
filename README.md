@@ -37,6 +37,17 @@ Currently exploring **DSA in C++**, modern web development, and AI-powered softw
 
 ---
 
+## 🏆 Certifications
+
+### Oracle – Agentic AI Certified Foundations Associate
+
+**Issued:** September 14, 2026
+**Credential ID:** 103539997AAI26OFA
+
+📜 [View Certificate](./Oracle-Agentic-AI-Certified-Foundations-Associate.pdf)
+
+---
+
 ## ⭐ Featured Projects
 
 ### ✈️ AI Radar — Live Flight Tracker
