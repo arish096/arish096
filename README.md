@@ -39,14 +39,7 @@ Currently exploring **DSA in C++**, modern web development, and AI-powered softw
 
 ## 🏆 Certifications
 
-### Oracle – Agentic AI Certified Foundations Associate
-
-Successfully completed the **Oracle Agentic AI Certified Foundations Associate** certification, demonstrating foundational knowledge of **Agentic AI concepts and AI-driven intelligent systems** through Oracle University.
-
-**Issued:** September 14, 2026
-**Credential ID:** 103539997AAI26OFA
-
-<img src="./oracle-agentic-ai-certificate.png" alt="Oracle Agentic AI Certified Foundations Associate Certificate" width="800"/>
+- [Oracle – Agentic AI Certified Foundations Associate](https://github.com/arish096/certifications)
 
 ---
 
