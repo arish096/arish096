@@ -1,147 +1,179 @@
-# 👋 Hi, I'm Arish Islam
+<div align="center">
 
-### Web Developer | AI & Prompt Engineering | AI-Powered Applications
+<a href="https://github.com/arish096">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arish+Islam;Web+Developer+%7C+AI+%26+Prompt+Engineering;AI-Powered+Applications" alt="Typing SVG" />
+</a>
 
-I build **AI-powered web applications, automation workflows, and practical developer projects**.
-Currently exploring **DSA in C++**, modern web development, and AI-powered software systems.
+<p>
+  <b>Web Developer | AI & Prompt Engineering | AI-Powered Applications</b>
+</p>
+
+<p>
+  <a href="https://github.com/arish096">
+    <img src="https://img.shields.io/github/followers/arish096?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/arish096?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 What I Build
+## 👨‍💻 About Me
 
-* 🤖 **AI-Powered Applications** — AI tools, assistants, and intelligent workflows
-* 🌐 **Web Applications** — Responsive and interactive websites
-* ⚙️ **AI Workflows & Automation** — Workflow automation using modern AI tools
-* 🧠 **Prompt Engineering** — Designing effective prompts and AI workflows
-* 💻 **DSA in C++** — Building strong problem-solving and programming fundamentals
+* 🚀 I build **AI-powered web applications**
+* 🤖 I create **AI workflows and automation**
+* 💡 I work on **practical developer projects**
+* 🌐 Exploring **modern web development**
+* 🧠 Currently exploring **DSA in C++**
+* ⚡ Exploring **AI-powered software systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Web Development
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+### 🌐 Web Development
 
-### Programming & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
-</p>
+### 💻 Programming & Development
 
-### AI & Automation
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
 
-**ChatGPT · Claude · Gemini · DeepSeek · Perplexity · Grok · n8n · Replit · Lovable · Antigravity · Emergent AI**
+</div>
 
 ---
 
-## 🏆 Certifications
+## 🤖 AI Tools
 
-- [Oracle – Agentic AI Certified Foundations Associate](https://github.com/arish096/certifications)
+<div align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-FF5C8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge" />
+
+</div>
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
 ### ✈️ AI Radar — Live Flight Tracker
 
-Real-time flight tracking application that visualizes live aircraft data on an interactive map.
+Real-time flight tracking application focused on displaying live aircraft information with an interactive radar-style interface.
 
-**Tech:** React · TypeScript · Node.js · Leaflet · OpenSky Network API · MCP
+**Tech:** React • TypeScript • Node.js • Leaflet • OpenSky Network API • MCP
 
-🔗 [View Project](https://github.com/arish096/AI-Radar---Live-Flight-Tracker-)
+<p>
+<a href="https://github.com/arish096/AI-Radar---Live-Flight-Tracker-">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ### 🍎 Apple Support AI Agent
 
-AI-powered customer support system built for the **Hiver SDE Intern Take-Home Assignment**.
+AI-powered customer support agent built for the **Hiver SDE Intern Take-Home Assignment**, using NLP-based intent classification, historical case retrieval and evidence-grounded responses.
 
-Features include intent classification, historical case retrieval, evidence-grounded response generation, and **AUTO-HANDLE vs ESCALATE** decisions.
+**Tech:** Python • NLP • TF-IDF • Logistic Regression • Streamlit
 
-**Tech:** Python · NLP · TF-IDF · Logistic Regression · Streamlit
-
-🔗 [View Project](https://github.com/arish096/apple-support-ai-agent)
+<p>
+<a href="https://github.com/arish096/apple-support-ai-agent">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ### 🩺 MedVitals.AI
 
-AI-powered medical education assistant supporting text, image, voice, and other multimodal interactions.
+AI-powered medical chatbot project with a focus on educational health information and AI-powered interaction.
 
-**Tech:** Python · Streamlit · OpenRouter · AI APIs
-
-🔗 [View Project](https://github.com/arish096/MedVitals.AI)
+**Tech:** Python • Streamlit • OpenRouter • AI APIs
 
 ---
 
 ### 🧠 DSA in C++
 
-A structured collection of my **Data Structures & Algorithms learning journey**, with topic-wise C++ implementations and regular practice.
+A dedicated repository documenting my ongoing journey of learning and practicing **Data Structures and Algorithms in C++**.
 
-**Topics:** Functions · Arrays · Pointers · Searching · Sorting · Bit Manipulation · Data Structures
-
-🔗 [View Repository](https://github.com/arish096/DSA-IN-Cpp)
+**Topics:** Functions • Binary Number System • Bitwise Operators • Arrays • Linear Search • Pointers • Binary Search
 
 ---
 
-## 🌐 Visit My Portfolio
+## 📜 Certification
 
-<p align="center">
-  <a href="https://arish-islam-portfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Explore my projects, skills, experience, and web development work.</b>
-</p>
+🏆 **Professional Certification**
+
+</div>
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
 
-```text
-DSA in C++              ███████████████░░░  Learning
-Web Development         ████████████████░░  Building
-AI Applications         █████████████████░  Building
-Prompt Engineering      █████████████████░  Practicing
-Automation              ███████████████░░░  Exploring
-```
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
 
-## 🎯 Currently Learning
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&theme=github_dark&hide_border=true" height="170" />
 
-* Data Structures & Algorithms with C++
-* Advanced Web Development
-* AI-powered application development
-* AI Agents & Workflow Automation
-* Problem Solving
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🔥 GitHub Streak
 
-<p align="left">
-  <a href="https://github.com/arish096">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arishislam096@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=arish096&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
-### 💡 My Approach
+## 🐍 Contribution Activity
 
-> **Build. Learn. Experiment. Improve.**
+<div align="center">
 
-I believe the best way to learn technology is by **building real projects and solving real problems**.
+<img src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
 
 ---
 
-⭐ If you find any of my projects useful or interesting, feel free to explore the repository and leave a star!
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/arish096">
+<img src="https://img.shields.io/badge/GitHub-Arish096-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://arish-islam-portfolio.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building. Learning. Creating.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=100&section=footer" />
+
+</div>
