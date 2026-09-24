@@ -155,12 +155,20 @@ My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-int
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 ---
 ## 🌐 Connect With Me
 
