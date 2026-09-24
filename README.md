@@ -140,15 +140,6 @@ My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-int
 </div>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&theme=github_dark&hide_border=true" height="180" />
-
-</div>
 
 ---
 
@@ -171,7 +162,6 @@ My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-int
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -182,6 +172,10 @@ My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-int
 
 <a href="https://arish-islam-portfolio.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge" />
+</a>
+
+<a href="mailto:arishislam096@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
