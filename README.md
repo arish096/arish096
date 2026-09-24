@@ -169,6 +169,9 @@ My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-int
     src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+---
+
 ---
 ## 🌐 Connect With Me
 
