@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/arish096">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arish+Islam;Web+Developer+%7C+AI+%26+Prompt+Engineering;AI-Powered+Applications" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Arish+Islam;Web+Developer+%7C+AI+%26+Prompt+Engineering;AI-Powered+Applications" alt="Typing SVG" />
 
 <p>
   <b>Web Developer | AI & Prompt Engineering | AI-Powered Applications</b>
@@ -10,10 +8,10 @@
 
 <p>
   <a href="https://github.com/arish096">
-    <img src="https://img.shields.io/github/followers/arish096?label=Followers&style=for-the-badge&logo=github&color=181717" />
+    <img src="https://img.shields.io/badge/GitHub-Arish096-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/arish096?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github" />
+  <a href="https://arish-islam-portfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge" />
   </a>
 </p>
 
@@ -23,12 +21,12 @@
 
 ## 👨‍💻 About Me
 
-* 🚀 I build **AI-powered web applications**
-* 🤖 I create **AI workflows and automation**
-* 💡 I work on **practical developer projects**
-* 🌐 Exploring **modern web development**
-* 🧠 Currently exploring **DSA in C++**
-* ⚡ Exploring **AI-powered software systems**
+- 🚀 I build **AI-powered web applications**
+- 🤖 I create **AI workflows and automation**
+- 💡 I work on **practical developer projects**
+- 🌐 Exploring **modern web development**
+- 🧠 Currently exploring **DSA in C++**
+- ⚡ Exploring **AI-powered software systems**
 
 ---
 
@@ -61,10 +59,13 @@
 <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
 <img src="https://img.shields.io/badge/Lovable-FF5C8A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Antigravity-161B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Emergent_AI-58A6FF?style=for-the-badge" />
 
 </div>
 
 ---
+
 ## 🚀 Featured Projects
 
 ### ✈️ AI Radar — Live Flight Tracker
@@ -83,7 +84,7 @@ Real-time flight tracking application focused on displaying live aircraft inform
 
 ### 🍎 Apple Support AI Agent
 
-AI-powered customer support agent built for the Hiver SDE Intern Take-Home Assignment, using NLP-based intent classification, historical case retrieval, evidence-grounded responses, and AUTO-HANDLE vs ESCALATE decisions.
+AI-powered customer support agent built for the **Hiver SDE Intern Take-Home Assignment**, using NLP-based intent classification, historical case retrieval, evidence-grounded responses, and AUTO-HANDLE vs ESCALATE decisions.
 
 **Tech:** Python • NLP • TF-IDF • Logistic Regression • Streamlit
 
@@ -97,7 +98,7 @@ AI-powered customer support agent built for the Hiver SDE Intern Take-Home Assig
 
 ### 🩺 MedVitals AI
 
-Multimodal AI-powered medical assistant built with Python and Streamlit. Supports text, medical image, video, and voice input, along with AI responses, voice output, PDF reports, and chat history. :contentReference[oaicite:3]{index=3}
+Multimodal AI-powered medical assistant built with Python and Streamlit. Supports text, medical image, video, and voice interaction with AI-powered responses and additional utility features.
 
 **Tech:** Python • Streamlit • OpenRouter • OpenCV • Pillow • gTTS • ReportLab
 
@@ -111,9 +112,9 @@ Multimodal AI-powered medical assistant built with Python and Streamlit. Support
 
 ### 🧠 DSA in C++
 
-My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-intermediate concepts and daily problem-solving practice. The repository currently includes topics such as Functions, Binary Number System, Bitwise Operators, Arrays, Vectors, Pointers, Binary Search, and Sorting. :contentReference[oaicite:4]{index=4}
+My ongoing Data Structures & Algorithms journey in C++, covering concepts and problem-solving practice.
 
-**Tech:** C++
+**Topics:** Functions • Binary Number System • Bitwise Operators • Arrays • Vectors • Pointers • Binary Search • Sorting
 
 <p>
 <a href="https://github.com/arish096/DSA-IN-Cpp">
@@ -121,15 +122,13 @@ My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-int
 </a>
 </p>
 
-
-
-
 ---
+
 ## 📜 Certification
 
 <div align="center">
 
-🏆 **Professional Certification**
+🏆 **Oracle – Agentic AI Certified Foundations Associate**
 
 <p>
 <a href="https://github.com/arish096/certifications">
@@ -138,8 +137,6 @@ My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-int
 </p>
 
 </div>
-
----
 
 ---
 
@@ -154,6 +151,8 @@ My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-int
 ---
 
 ## 🐍 Contribution Activity
+
+<div align="center">
 
 <picture>
   <source
@@ -170,9 +169,10 @@ My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-int
   />
 </picture>
 
----
+</div>
 
 ---
+
 ## 🌐 Connect With Me
 
 <div align="center">
