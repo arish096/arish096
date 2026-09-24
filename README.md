@@ -65,7 +65,6 @@
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 ### ✈️ AI Radar — Live Flight Tracker
@@ -84,7 +83,7 @@ Real-time flight tracking application focused on displaying live aircraft inform
 
 ### 🍎 Apple Support AI Agent
 
-AI-powered customer support agent built for the **Hiver SDE Intern Take-Home Assignment**, using NLP-based intent classification, historical case retrieval and evidence-grounded responses.
+AI-powered customer support agent built for the Hiver SDE Intern Take-Home Assignment, using NLP-based intent classification, historical case retrieval, evidence-grounded responses, and AUTO-HANDLE vs ESCALATE decisions.
 
 **Tech:** Python • NLP • TF-IDF • Logistic Regression • Streamlit
 
@@ -96,49 +95,68 @@ AI-powered customer support agent built for the **Hiver SDE Intern Take-Home Ass
 
 ---
 
-### 🩺 MedVitals.AI
+### 🩺 MedVitals AI
 
-AI-powered medical chatbot project with a focus on educational health information and AI-powered interaction.
+Multimodal AI-powered medical assistant built with Python and Streamlit. Supports text, medical image, video, and voice input, along with AI responses, voice output, PDF reports, and chat history. :contentReference[oaicite:3]{index=3}
 
-**Tech:** Python • Streamlit • OpenRouter • AI APIs
+**Tech:** Python • Streamlit • OpenRouter • OpenCV • Pillow • gTTS • ReportLab
+
+<p>
+<a href="https://github.com/arish096/MedVitals.AI">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ### 🧠 DSA in C++
 
-A dedicated repository documenting my ongoing journey of learning and practicing **Data Structures and Algorithms in C++**.
+My ongoing Data Structures & Algorithms journey in C++, covering beginner-to-intermediate concepts and daily problem-solving practice. The repository currently includes topics such as Functions, Binary Number System, Bitwise Operators, Arrays, Vectors, Pointers, Binary Search, and Sorting. :contentReference[oaicite:4]{index=4}
 
-**Topics:** Functions • Binary Number System • Bitwise Operators • Arrays • Linear Search • Pointers • Binary Search
+**Tech:** C++
+
+<p>
+<a href="https://github.com/arish096/DSA-IN-Cpp">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+
+
 
 ---
-
 ## 📜 Certification
 
 <div align="center">
 
 🏆 **Professional Certification**
 
+<p>
+<a href="https://github.com/arish096/certifications">
+<img src="https://img.shields.io/badge/View_Certificate-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&theme=github_dark&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&theme=github_dark&hide_border=true" height="180" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=arish096&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=arish096&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
