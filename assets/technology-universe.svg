@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560">
+<defs><linearGradient id="bg"><stop stop-color="#04130f"/><stop offset=".6" stop-color="#062a1e"/><stop offset="1" stop-color="#071522"/></linearGradient><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#1a6047" stroke-opacity=".2"/></pattern></defs>
+<rect width="1400" height="560" rx="28" fill="url(#bg)"/><rect width="1400" height="560" rx="28" fill="url(#grid)"/>
+<text x="700" y="55" text-anchor="middle" fill="#e7fff5" font-family="Arial" font-size="36" font-weight="700" letter-spacing="5">TECHNOLOGY UNIVERSE</text>
+<text x="700" y="82" text-anchor="middle" fill="#54f5aa" font-family="monospace" font-size="12" letter-spacing="3">TOOLS • TECHNOLOGIES • INTELLIGENCE</text><rect x="45" y="115" width="300" height="375" rx="18" fill="#071f18" stroke="#1f8b65" stroke-width="2"/>
+<text x="63" y="145" fill="#5dffad" font-family="monospace" font-size="11">01 / FRONTEND</text>
+<text x="63" y="181" fill="#e7fff5" font-family="Arial" font-size="19" font-weight="700">React • Next.js • TypeScript</text>
+<line x1="63" y1="199" x2="327" y2="199" stroke="#1c694e"/>
+<rect x="63" y="218" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="79" cy="236" r="4" fill="#64ffb3"/>
+<text x="93" y="240" fill="#cbeee0" font-family="Arial" font-size="13">HTML / CSS</text><rect x="63" y="270" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="79" cy="288" r="4" fill="#64ffb3"/>
+<text x="93" y="292" fill="#cbeee0" font-family="Arial" font-size="13">JavaScript</text><rect x="63" y="322" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="79" cy="340" r="4" fill="#64ffb3"/>
+<text x="93" y="344" fill="#cbeee0" font-family="Arial" font-size="13">Tailwind</text><rect x="63" y="374" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="79" cy="392" r="4" fill="#64ffb3"/>
+<text x="93" y="396" fill="#cbeee0" font-family="Arial" font-size="13">UI / UX</text><rect x="375" y="115" width="300" height="375" rx="18" fill="#071f18" stroke="#1f8b65" stroke-width="2"/>
+<text x="393" y="145" fill="#5dffad" font-family="monospace" font-size="11">02 / BACKEND</text>
+<text x="393" y="181" fill="#e7fff5" font-family="Arial" font-size="19" font-weight="700">Node.js • Python • APIs</text>
+<line x1="393" y1="199" x2="657" y2="199" stroke="#1c694e"/>
+<rect x="393" y="218" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="409" cy="236" r="4" fill="#64ffb3"/>
+<text x="423" y="240" fill="#cbeee0" font-family="Arial" font-size="13">Express</text><rect x="393" y="270" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="409" cy="288" r="4" fill="#64ffb3"/>
+<text x="423" y="292" fill="#cbeee0" font-family="Arial" font-size="13">REST</text><rect x="393" y="322" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="409" cy="340" r="4" fill="#64ffb3"/>
+<text x="423" y="344" fill="#cbeee0" font-family="Arial" font-size="13">Automation</text><rect x="393" y="374" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="409" cy="392" r="4" fill="#64ffb3"/>
+<text x="423" y="396" fill="#cbeee0" font-family="Arial" font-size="13">Services</text><rect x="705" y="115" width="300" height="375" rx="18" fill="#071f18" stroke="#1f8b65" stroke-width="2"/>
+<text x="723" y="145" fill="#5dffad" font-family="monospace" font-size="11">03 / AI / DATA</text>
+<text x="723" y="181" fill="#e7fff5" font-family="Arial" font-size="19" font-weight="700">LLM • RAG • AI Agents</text>
+<line x1="723" y1="199" x2="987" y2="199" stroke="#1c694e"/>
+<rect x="723" y="218" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="739" cy="236" r="4" fill="#64ffb3"/>
+<text x="753" y="240" fill="#cbeee0" font-family="Arial" font-size="13">Prompting</text><rect x="723" y="270" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="739" cy="288" r="4" fill="#64ffb3"/>
+<text x="753" y="292" fill="#cbeee0" font-family="Arial" font-size="13">OpenRouter</text><rect x="723" y="322" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="739" cy="340" r="4" fill="#64ffb3"/>
+<text x="753" y="344" fill="#cbeee0" font-family="Arial" font-size="13">LangChain</text><rect x="723" y="374" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="739" cy="392" r="4" fill="#64ffb3"/>
+<text x="753" y="396" fill="#cbeee0" font-family="Arial" font-size="13">MongoDB / SQL</text><rect x="1035" y="115" width="300" height="375" rx="18" fill="#071f18" stroke="#1f8b65" stroke-width="2"/>
+<text x="1053" y="145" fill="#5dffad" font-family="monospace" font-size="11">04 / CLOUD / DEVOPS</text>
+<text x="1053" y="181" fill="#e7fff5" font-family="Arial" font-size="19" font-weight="700">Git • Docker • Cloud</text>
+<line x1="1053" y1="199" x2="1317" y2="199" stroke="#1c694e"/>
+<rect x="1053" y="218" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="1069" cy="236" r="4" fill="#64ffb3"/>
+<text x="1083" y="240" fill="#cbeee0" font-family="Arial" font-size="13">GitHub</text><rect x="1053" y="270" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="1069" cy="288" r="4" fill="#64ffb3"/>
+<text x="1083" y="292" fill="#cbeee0" font-family="Arial" font-size="13">CI / CD</text><rect x="1053" y="322" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="1069" cy="340" r="4" fill="#64ffb3"/>
+<text x="1083" y="344" fill="#cbeee0" font-family="Arial" font-size="13">Deployment</text><rect x="1053" y="374" width="264" height="36" rx="8" fill="#092a20" stroke="#155d44"/>
+<circle cx="1069" cy="392" r="4" fill="#64ffb3"/>
+<text x="1083" y="396" fill="#cbeee0" font-family="Arial" font-size="13">Scaling</text></svg>
