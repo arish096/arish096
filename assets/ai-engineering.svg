@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="330">
+<defs><linearGradient id="b"><stop stop-color="#03120d"/><stop offset=".55" stop-color="#06271b"/><stop offset="1" stop-color="#04151a"/></linearGradient><pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1a5a43" stroke-opacity=".25"/></pattern></defs>
+<rect width="1400" height="330" rx="18" fill="url(#b)"/><rect width="1400" height="330" rx="18" fill="url(#g)"/>
+<text x="700" y="56" text-anchor="middle" font-family="Arial" font-size="33" font-weight="700" fill="#dfffee" letter-spacing="4">AI ENGINEERING</text>
+<text x="700" y="83" text-anchor="middle" font-family="monospace" font-size="12" fill="#50e8a1" letter-spacing="3">INTELLIGENCE / RETRIEVAL / AUTOMATION / CONTEXT</text>
+<rect x="35" y="125" width="246" height="135" rx="14" fill="#061e17" stroke="#1d805d"/>
+<text x="53" y="157" font-family="monospace" font-size="11" fill="#55f1a5">01</text>
+<text x="53" y="190" font-family="Arial" font-size="20" font-weight="700" fill="#e5fff4">LLM</text>
+<text x="53" y="218" font-family="Arial" font-size="11" fill="#8cb5a6">Intelligent Applications</text>
+<circle cx="245" cy="198" r="18" fill="none" stroke="#3eeaa0" stroke-width="2"/><rect x="301" y="125" width="246" height="135" rx="14" fill="#061e17" stroke="#1d805d"/>
+<text x="319" y="157" font-family="monospace" font-size="11" fill="#55f1a5">02</text>
+<text x="319" y="190" font-family="Arial" font-size="20" font-weight="700" fill="#e5fff4">RAG</text>
+<text x="319" y="218" font-family="Arial" font-size="11" fill="#8cb5a6">Knowledge Retrieval</text>
+<circle cx="511" cy="198" r="18" fill="none" stroke="#3eeaa0" stroke-width="2"/><rect x="567" y="125" width="246" height="135" rx="14" fill="#061e17" stroke="#1d805d"/>
+<text x="585" y="157" font-family="monospace" font-size="11" fill="#55f1a5">03</text>
+<text x="585" y="190" font-family="Arial" font-size="20" font-weight="700" fill="#e5fff4">AGENTS</text>
+<text x="585" y="218" font-family="Arial" font-size="11" fill="#8cb5a6">Autonomous Workflows</text>
+<circle cx="777" cy="198" r="18" fill="none" stroke="#3eeaa0" stroke-width="2"/><rect x="833" y="125" width="246" height="135" rx="14" fill="#061e17" stroke="#1d805d"/>
+<text x="851" y="157" font-family="monospace" font-size="11" fill="#55f1a5">04</text>
+<text x="851" y="190" font-family="Arial" font-size="20" font-weight="700" fill="#e5fff4">PROMPTING</text>
+<text x="851" y="218" font-family="Arial" font-size="11" fill="#8cb5a6">Better AI Interaction</text>
+<circle cx="1043" cy="198" r="18" fill="none" stroke="#3eeaa0" stroke-width="2"/><rect x="1099" y="125" width="246" height="135" rx="14" fill="#061e17" stroke="#1d805d"/>
+<text x="1117" y="157" font-family="monospace" font-size="11" fill="#55f1a5">05</text>
+<text x="1117" y="190" font-family="Arial" font-size="20" font-weight="700" fill="#e5fff4">AUTOMATION</text>
+<text x="1117" y="218" font-family="Arial" font-size="11" fill="#8cb5a6">APIs / Integrations</text>
+<circle cx="1309" cy="198" r="18" fill="none" stroke="#3eeaa0" stroke-width="2"/></svg>

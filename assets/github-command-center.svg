@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360">
+<defs><linearGradient id="b"><stop stop-color="#03120d"/><stop offset=".55" stop-color="#06271b"/><stop offset="1" stop-color="#04151a"/></linearGradient><pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1a5a43" stroke-opacity=".25"/></pattern></defs>
+<rect width="1400" height="360" rx="18" fill="url(#b)"/><rect width="1400" height="360" rx="18" fill="url(#g)"/>
+<text x="35" y="48" font-family="Arial" font-size="28" font-weight="700" fill="#dfffee">GITHUB COMMAND CENTER</text>
+<text x="35" y="72" font-family="monospace" font-size="11" fill="#50e8a1">PROFILE / REPOSITORIES / CONTRIBUTIONS / ACTIVITY</text>
+<rect x="35" y="100" width="300" height="105" rx="13" fill="#061e17" stroke="#1d805d"/>
+<text x="53" y="130" font-family="monospace" font-size="10" fill="#54edaa">REPOSITORIES</text>
+<text x="53" y="175" font-family="Arial" font-size="25" font-weight="700" fill="#e5fff4">09</text><rect x="368" y="100" width="300" height="105" rx="13" fill="#061e17" stroke="#1d805d"/>
+<text x="386" y="130" font-family="monospace" font-size="10" fill="#54edaa">FOLLOWERS</text>
+<text x="386" y="175" font-family="Arial" font-size="25" font-weight="700" fill="#e5fff4">LIVE</text><rect x="701" y="100" width="300" height="105" rx="13" fill="#061e17" stroke="#1d805d"/>
+<text x="719" y="130" font-family="monospace" font-size="10" fill="#54edaa">OPEN SOURCE</text>
+<text x="719" y="175" font-family="Arial" font-size="25" font-weight="700" fill="#e5fff4">ACTIVE</text><rect x="1034" y="100" width="300" height="105" rx="13" fill="#061e17" stroke="#1d805d"/>
+<text x="1052" y="130" font-family="monospace" font-size="10" fill="#54edaa">BUILD STATUS</text>
+<text x="1052" y="175" font-family="Arial" font-size="25" font-weight="700" fill="#e5fff4">ONLINE</text><text x="35" y="250" font-family="monospace" font-size="11" fill="#50e8a1">ACTIVITY SIGNAL</text>
+<polyline points="35,315 120,292 205,305 290,265 375,280 460,230 545,255 630,190 715,215 800,155 885,190 970,145 1055,175 1140,125 1225,150 1360,95" fill="none" stroke="#54f1a5" stroke-width="4"/>
+<polyline points="35,315 120,292 205,305 290,265 375,280 460,230 545,255 630,190 715,215 800,155 885,190 970,145 1055,175 1140,125 1225,150 1360,95 1360,330 35,330" fill="#2ce09a" fill-opacity=".07"/>
+</svg>
