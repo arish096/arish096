@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Arish+Islam;Web+Developer+%7C+AI+%26+Prompt+Engineering;AI-Powered+Applications" alt="Typing SVG" />
+# 👋 Hi, I'm Arish Islam
 
-<p>
-  <b>Web Developer | AI & Prompt Engineering | AI-Powered Applications</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Web+Developer;AI+%26+Prompt+Engineering;AI-Powered+Applications;AI+Workflow+Builder;Learning+DSA+in+C%2B%2B" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/arish096">
-    <img src="https://img.shields.io/badge/GitHub-Arish096-181717?style=for-the-badge&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=arish096&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
-  <a href="https://arish-islam-portfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge" />
+  <a href="https://github.com/arish096?tab=followers">
+    <img src="https://img.shields.io/github/followers/arish096?label=Followers&style=for-the-badge&color=181717" />
   </a>
 </p>
 
@@ -19,184 +17,215 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🚀 I build **AI-powered web applications**
-- 🤖 I create **AI workflows and automation**
-- 💡 I work on **practical developer projects**
-- 🌐 Exploring **modern web development**
-- 🧠 Currently exploring **DSA in C++**
-- ⚡ Exploring **AI-powered software systems**
+<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+* 💻 Building **modern & AI-powered web applications**
+* 🤖 Exploring **AI Agents, Prompt Engineering & Automation**
+* 🧠 Currently learning **Data Structures & Algorithms in C++**
+* ⚡ Building practical projects that solve real-world problems
+* 🌐 Interested in **Web Development, AI & emerging technologies**
+* 🔧 Turning ideas into useful digital products
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## 💻 Tech Stack
 
 ### 🌐 Web Development
 
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### 💻 Programming & Development
+### 🧠 Programming
 
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
 
-</div>
+### 🛠️ Developer Tools
 
----
-
-## 🤖 AI Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
-<img src="https://img.shields.io/badge/Lovable-FF5C8A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Antigravity-161B22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Emergent_AI-58A6FF?style=for-the-badge" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### ✈️ AI Radar — Live Flight Tracker
-
-Real-time flight tracking application focused on displaying live aircraft information with an interactive radar-style interface.
-
-**Tech:** React • TypeScript • Node.js • Leaflet • OpenSky Network API • MCP
-
-<p>
-<a href="https://github.com/arish096/AI-Radar---Live-Flight-Tracker-">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,replit" />
 </p>
 
 ---
+
+## 🤖 AI & Automation
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Perplexity-20B8CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ✈️ AI Radar
+
+**Live Flight Tracker**
+
+A flight-tracking application designed to visualize aircraft information through an interactive radar-style interface.
+
+<a href="https://github.com/arish096/AI-Radar---Live-Flight-Tracker-">
+<img src="https://img.shields.io/badge/View_Project-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🍎 Apple Support AI Agent
 
-AI-powered customer support agent built for the **Hiver SDE Intern Take-Home Assignment**, using NLP-based intent classification, historical case retrieval, evidence-grounded responses, and AUTO-HANDLE vs ESCALATE decisions.
+**Hiver SDE Intern Take-Home Project**
 
-**Tech:** Python • NLP • TF-IDF • Logistic Regression • Streamlit
+AI-powered customer support system using Python, NLP, TF-IDF, Logistic Regression & Streamlit.
 
-<p>
 <a href="https://github.com/arish096/apple-support-ai-agent">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Project-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms+in+C%2B%2B;Problem+Solving;Modern+Web+Development;AI+Agents+%26+Automation;AI-Powered+Software+Systems" />
+
 </p>
 
 ---
 
-### 🩺 MedVitals AI
+## 📊 GitHub Analytics
 
-Multimodal AI-powered medical assistant built with Python and Streamlit. Supports text, medical image, video, and voice interaction with AI-powered responses and additional utility features.
+<p align="center">
 
-**Tech:** Python • Streamlit • OpenRouter • OpenCV • Pillow • gTTS • ReportLab
+<img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<p>
-<a href="https://github.com/arish096/MedVitals.AI">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 ---
 
-### 🧠 DSA in C++
+## 🔥 Contribution Streak
 
-My ongoing Data Structures & Algorithms journey in C++, covering concepts and problem-solving practice.
+<p align="center">
 
-**Topics:** Functions • Binary Number System • Bitwise Operators • Arrays • Vectors • Pointers • Binary Search • Sorting
+<img src="https://streak-stats.demolab.com?user=arish096&theme=tokyonight&hide_border=true"/>
 
-<p>
-<a href="https://github.com/arish096/DSA-IN-Cpp">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 </p>
 
 ---
 
-## 📜 Certification
+## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
-🏆 **Oracle – Agentic AI Certified Foundations Associate**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-<p>
-<a href="https://github.com/arish096/certifications">
-<img src="https://img.shields.io/badge/View_Certificate-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 </p>
 
-</div>
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arish096&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🎯 2026 Goals
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=arish096&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   ██████╗ ██████╗  ██████╗  ██████╗             ║
+║  ██╔════╝██╔═══██╗██╔═══██╗██╔════╝             ║
+║  ██║     ██║   ██║██║   ██║██║  ███╗            ║
+║  ██║     ██║   ██║██║   ██║██║   ██║            ║
+║  ╚██████╗╚██████╔╝╚██████╔╝╚██████╔╝            ║
+║   ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝             ║
+║                                                  ║
+║   → Master C++ & DSA                              ║
+║   → Build practical AI projects                  ║
+║   → Improve full-stack development               ║
+║   → Explore AI Agents & Automation               ║
+║   → Build & ship consistently                    ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ My Developer Journey
 
-<div align="center">
+```text
+        💡 IDEA
+          │
+          ▼
+      🧠 LEARN
+          │
+          ▼
+       💻 BUILD
+          │
+          ▼
+      🤖 EXPERIMENT
+          │
+          ▼
+       🚀 SHIP
+          │
+          ▼
+       📈 IMPROVE
+          │
+          └──────────────► 🔁
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/arish096">
-<img src="https://img.shields.io/badge/GitHub-Arish096-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://arish-islam-portfolio.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge" />
-</a>
-
-<a href="mailto:arishislam096@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### ✨ Building. Learning. Creating.
+### 💙 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=100&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Experiment+%E2%80%A2+Improve" />
+
+⭐ **Feel free to explore my repositories!**
 
 </div>
