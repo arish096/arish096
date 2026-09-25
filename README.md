@@ -1,27 +1,25 @@
-<p align="center">
-<img src="./assets/hero.gif" width="100%" alt="Animated Arish096 hero"/>
-</p>
+<div align="center">
 
-<h2>Engineering With Purpose</h2>
+# ARISH096
 
-<p>
-I build practical software across <strong>AI, full-stack development,
-automation, and problem solving</strong> — turning ideas into useful products.
-</p>
+### AI Engineer × Web Developer
 
-<p align="center">
-<img src="./assets/technology-universe.gif" width="100%" alt="Animated Technology Universe"/>
-</p>
+<img src="./assets/github-profile-animation.gif" width="100%" alt="Arish096 animated GitHub profile">
 
-<p align="center">
-<img src="./assets/system-architecture.gif" width="100%" alt="Animated System Architecture"/>
-</p>
+</div>
 
-<p align="center">
-<img src="./assets/ai-engineering.gif" width="100%" alt="Animated AI Engineering"/>
-</p>
+## Engineering With Purpose
 
-<h2>Selected Projects</h2>
+I build practical software across **AI, full-stack development, automation, and problem solving** — turning ideas into useful real-world products.
+
+### Focus
+
+- AI / LLM / RAG / AI Agents
+- Full-Stack Web Development
+- C++ / DSA
+- Automation & Developer Tools
+
+### Selected Projects
 
 | Project | Focus |
 |---|---|
@@ -32,4 +30,10 @@ automation, and problem solving</strong> — turning ideas into useful products.
 | DSA-IN-Cpp | Data structures & algorithms |
 | thesis-learn-App | Application development |
 
-<p align="center"><sub>ARISH096 // LEARN → BUILD → SHIP → ITERATE</sub></p>
+---
+
+<div align="center">
+
+**LEARN → BUILD → SHIP → ITERATE**
+
+</div>
