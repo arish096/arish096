@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="260">
-<defs><linearGradient id="b"><stop stop-color="#03120d"/><stop offset=".55" stop-color="#06271b"/><stop offset="1" stop-color="#04151a"/></linearGradient><pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1a5a43" stroke-opacity=".25"/></pattern></defs>
-<rect width="1400" height="260" rx="18" fill="url(#b)"/><rect width="1400" height="260" rx="18" fill="url(#g)"/>
-<text x="35" y="45" font-family="Arial" font-size="27" font-weight="700" fill="#dfffee">ACTIVITY STREAM</text>
-<text x="35" y="69" font-family="monospace" font-size="11" fill="#50e8a1">CONTINUOUS DELIVERY / BUILD / SHIP / SCALE</text>
-<polyline points="40,205 130,190 220,198 310,160 400,174 490,132 580,150 670,105 760,120 850,90 940,118 1030,75 1120,95 1210,58 1300,78 1360,45" fill="none" stroke="#54f1a5" stroke-width="4"/>
-<g fill="#54f1a5"><circle cx="130" cy="190" r="4"/><circle cx="310" cy="160" r="4"/><circle cx="490" cy="132" r="4"/><circle cx="670" cy="105" r="4"/><circle cx="850" cy="90" r="4"/><circle cx="1030" cy="75" r="4"/><circle cx="1210" cy="58" r="4"/><circle cx="1360" cy="45" r="5"/></g>
-</svg>
