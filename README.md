@@ -1,47 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071a12,50:063b28,100:07111f&text=ARISH%20ISLAM&fontColor=66ffb3&fontSize=52&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20PROMPT%20ENGINEER&descAlignY=62&descSize=15&animation=twinkling" width="100%"/>
+<img src="./assets/hero.gif" width="100%" alt="Animated futuristic Arish Islam developer banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=66FFB3&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Web+Applications;Exploring+AI+Agents+%26+Automation;Solving+DSA+Problems+in+C%2B%2B;Turning+Ideas+Into+Real+Products;Learning+%7C+Building+%7C+Experimenting" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=650&color=5DFFAD&center=true&vCenter=true&width=900&lines=AI+%2B+WEB+DEVELOPER;BUILDING+AI-POWERED+APPLICATIONS;PROMPT+ENGINEERING+%7C+AUTOMATION;DSA+IN+C%2B%2B+%7C+PROBLEM+SOLVING;BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+EXPERIMENTING" />
 
 </div>
 
-<br>
+---
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="30%" align="center">
 
-<img src="https://github.com/arish096.png" width="230" alt="Arish Islam"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=arish096&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge"/>
+<img src="https://github.com/arish096.png" width="190" alt="Arish Islam GitHub avatar"/>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/arish096?label=Followers&style=for-the-badge&color=0b5&labelColor=07111f"/>
+<img src="https://komarev.com/ghpvc/?username=arish096&label=PROFILE+VIEWS&color=16c784&style=for-the-badge" alt="Profile views"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/arish096?style=for-the-badge&label=FOLLOWERS&color=0b3d2e&labelColor=06120f" alt="Followers"/>
 
 </td>
 
-<td width="65%">
+<td width="70%">
 
-# 👋 Hi, I'm **Arish Islam**
+# `>_ ARISH ISLAM`
 
-### `Web Developer` · `AI & Prompt Engineering` · `C++ DSA`
+### **Web Developer · AI & Prompt Engineering · C++ DSA**
 
 I build **AI-powered applications, intelligent workflows, automation systems and modern web experiences.**
 
-### Current Focus
+```text
+SYSTEM STATUS
+────────────────────────────────────────
+● AI APPLICATIONS       BUILDING
+● WEB DEVELOPMENT       ACTIVE
+● PROMPT ENGINEERING    EXPLORING
+● AI AUTOMATION         EXPLORING
+● DSA / C++             LEARNING
+────────────────────────────────────────
+```
 
-- 🤖 AI-powered applications
-- 🌐 Modern Web Development
-- 🧠 Prompt Engineering
-- ⚙️ AI Agents & Automation
-- 💻 Data Structures & Algorithms
-- 🚀 Practical real-world projects
-
-> **Build. Learn. Experiment. Improve.**
+> **Turning ideas into real-world software.**
 
 </td>
 </tr>
@@ -49,317 +53,194 @@ I build **AI-powered applications, intelligent workflows, automation systems and
 
 ---
 
-# ⚡ SYSTEM ARCHITECTURE
+## `01 / SYSTEM ARCHITECTURE`
+
+<div align="center">
+<img src="./assets/system-architecture.svg" width="100%" alt="Futuristic system architecture"/>
+</div>
+
+---
+
+## `02 / TECHNOLOGY UNIVERSE`
+
+<div align="center">
+<img src="./assets/technology-universe.svg" width="100%" alt="Technology universe"/>
+</div>
+
+---
+
+## `03 / AI ENGINEERING`
 
 <div align="center">
 
 ```text
-                    ┌───────────────────────┐
-                    │    CLIENT EXPERIENCE  │
-                    │   React • TypeScript  │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │       API LAYER      │
-                    │ Node • Python • APIs │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │     AI / SERVICES     │
-                    │ LLM • Agents • RAG   │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │      DATA LAYER       │
-                    │ PostgreSQL • MongoDB  │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │     INFRASTRUCTURE    │
-                    │ Cloud • Docker • CI   │
-                    └───────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                     AI SYSTEM CORE                        ║
+╠════════════════════════════════════════════════════════════╣
+║  LLMs          → Intelligent Applications                  ║
+║  Prompting     → Better AI Interaction                     ║
+║  RAG           → Knowledge Retrieval                       ║
+║  AI Agents     → Autonomous Workflows                      ║
+║  Automation    → APIs / Integrations / Context             ║
+╚════════════════════════════════════════════════════════════╝
 ```
+
+`LLMs` · `RAG` · `AI Agents` · `Prompt Engineering` · `Automation` · `AI APIs`
 
 </div>
 
 ---
 
-# 🌌 TECHNOLOGY UNIVERSE
+## `04 / FEATURED PROJECTS`
 
 <table>
 <tr>
-
-<td width="25%" valign="top">
-
-### `01 / INTERFACE`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=3"/>
-
-**Frontend**
-
-`HTML` · `CSS` · `JavaScript`  
-`TypeScript` · `React` · `Next.js`
-
-</td>
-
-<td width="25%" valign="top">
-
-### `02 / LOGIC`
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,java,express&perline=3"/>
-
-**Programming**
-
-`C++` · `Python` · `Java`  
-`Node.js` · `Express`
-
-</td>
-
-<td width="25%" valign="top">
-
-### `03 / INTELLIGENCE`
-
-<img src="https://skillicons.dev/icons?i=python&perline=3"/>
-
-**AI**
-
-`LLMs` · `Prompt Engineering`  
-`AI Agents` · `RAG` · `Automation`
-
-</td>
-
-<td width="25%" valign="top">
-
-### `04 / DATA`
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3"/>
-
-**Data**
-
-`MongoDB` · `MySQL`  
-`PostgreSQL` · `APIs`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🤖 AI ENGINEERING
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:041b12,50:073b28,100:07111f&text=AI%20ENGINEERING&fontColor=66ffb3&fontSize=38&animation=twinkling" width="100%"/>
-
-</div>
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    AI SYSTEM CORE                        │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  LLMs            →  Intelligent Applications             │
-│  Prompting       →  Better AI Interaction                │
-│  RAG             →  Knowledge Retrieval                  │
-│  AI Agents       →  Autonomous Workflows                 │
-│  Automation      →  APIs / Integrations                  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-`LLMs` · `Prompt Engineering` · `AI Agents` · `RAG` · `Automation` · `AI APIs`
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<table>
-<tr>
-
 <td width="50%" valign="top">
 
-## ✈️ AI Radar
+### ✈️ AI RADAR
+**Live Flight Tracker**
 
-Real-time flight tracking application with interactive visualization.
+Real-time aircraft tracking with an interactive radar-style interface.
 
-**Stack:** `React` `TypeScript` `Node.js` `Leaflet` `OpenSky API` `MCP`
+`React` `TypeScript` `Node.js` `Leaflet` `OpenSky API` `MCP`
 
-<a href="https://github.com/arish096/AI-Radar---Live-Flight-Tracker-">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/arish096/AI-Radar---Live-Flight-Tracker-">VIEW PROJECT →</a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🍎 Apple Support AI Agent
+### 🍎 APPLE SUPPORT AI AGENT
 
-AI-powered customer support system using intent classification and retrieval.
+AI customer-support agent with intent classification, retrieval, grounded responses and escalation.
 
-**Stack:** `Python` `NLP` `TF-IDF` `Logistic Regression` `Streamlit`
+`Python` `NLP` `TF-IDF` `Streamlit`
 
-<a href="https://github.com/arish096/apple-support-ai-agent">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/arish096/apple-support-ai-agent">VIEW PROJECT →</a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## 🩺 MedVitals.AI
+### 🩺 MEDVITALS.AI
 
-Multimodal AI medical education assistant supporting text, image, voice, video and reports.
+Multimodal AI assistant supporting text, medical images, video and voice workflows.
 
-**Stack:** `Python` `Streamlit` `OpenRouter`
+`Python` `Streamlit` `OpenRouter`
 
-<a href="https://github.com/arish096/MedVitals.AI">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-bd5cff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/arish096/MedVitals.AI">VIEW PROJECT →</a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🧠 DSA in C++
+### 🧠 DSA IN C++
 
-Structured DSA learning and problem-solving repository.
+A structured DSA journey with problem-solving practice.
 
-**Topics:** `Arrays` `Searching` `Sorting` `Pointers` `Bit Manipulation` `Data Structures`
+`C++` `Arrays` `Searching` `Sorting` `Algorithms`
 
-<a href="https://github.com/arish096/DSA-IN-Cpp">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-ffcc66?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/arish096/DSA-IN-Cpp">VIEW REPOSITORY →</a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## 🎨 AI YouTube Thumbnail Generator
+### 🎨 AI YOUTUBE THUMBNAIL GENERATOR
 
 AI-powered thumbnail creation project.
 
-<a href="https://github.com/arish096/ai-youtube-thumbnail-generator">
-<img src="https://img.shields.io/badge/EXPLORE-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+`TypeScript` `AI` `Web`
+
+<a href="https://github.com/arish096/ai-youtube-thumbnail-generator">VIEW PROJECT →</a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🎓 Thesis Learn
+### 🎓 THESIS LEARN
 
-AI-powered learning assistant for students.
+AI-powered learning assistant for **CBSE · JEE · NEET**.
 
-<a href="https://github.com/arish096/thesis-learn-App">
-<img src="https://img.shields.io/badge/EXPLORE-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+`TypeScript` `AI` `Education`
+
+<a href="https://github.com/arish096/thesis-learn-App">VIEW PROJECT →</a>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 📊 GITHUB COMMAND CENTER
+## `05 / GITHUB COMMAND CENTER`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&hide_border=true&bg_color=07111f&title_color=66ffb3&icon_color=00e5ff&text_color=ffffff&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&hide_border=true&bg_color=07111f&title_color=5dffad&icon_color=00e5ff&text_color=e9fff5&rank_icon=github" width="49%" alt="GitHub stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arish096&hide_border=true&background=07111f&ring=66ffb3&fire=ff6b35&currStreakLabel=66ffb3&sideLabels=ffffff&dates=9ca3af" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=arish096&hide_border=true&background=07111f&ring=5dffad&fire=ff7a45&currStreakLabel=5dffad&sideLabels=e9fff5&dates=8ba99c" width="49%" alt="GitHub streak"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&hide_border=true&bg_color=07111f&title_color=66ffb3&text_color=ffffff" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&hide_border=true&bg_color=07111f&title_color=5dffad&text_color=e9fff5" width="43%" alt="Top languages"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+## `06 / ACTIVITY STREAM`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arish096&bg_color=07111f&color=5dffad&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-# 📈 ACTIVITY STREAM
+## `07 / CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arish096&bg_color=07111f&color=66ffb3&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 
 </div>
 
 ---
 
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arish096&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
----
-
-# 🎯 CURRENT MISSION
+## `08 / CURRENT MISSION`
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  [██████████████████░░]  AI APPLICATIONS             ║
-║  [████████████████░░░░]  WEB DEVELOPMENT             ║
-║  [███████████████░░░░░]  DSA / C++                  ║
-║  [█████████████████░░░]  AI AGENTS                  ║
-║  [██████████████░░░░░░]  AUTOMATION                 ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  AI APPLICATIONS       ██████████████████░░   BUILDING     │
+│  WEB DEVELOPMENT       █████████████████░░░   BUILDING     │
+│  AI AGENTS             ████████████████░░░░   EXPLORING   │
+│  AUTOMATION            ███████████████░░░░░   EXPLORING   │
+│  DSA / C++             ██████████████░░░░░░   LEARNING    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ### Currently Exploring
 
-`AI Agents` · `RAG` · `Advanced Web Development` · `DSA` · `Automation`
+`AI Agents` · `RAG` · `Advanced Web Development` · `Automation` · `DSA in C++`
 
 ---
 
-# 🌐 CONNECT
+## `09 / CONNECT`
 
 <div align="center">
 
-<a href="https://github.com/arish096">
-<img src="https://img.shields.io/badge/GitHub-07111f?style=for-the-badge&logo=github&logoColor=66ffb3"/>
-</a>
+<a href="https://github.com/arish096"><img src="https://img.shields.io/badge/GITHUB-07111f?style=for-the-badge&logo=github&logoColor=5dffad" alt="GitHub"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/Arish_Islam/"><img src="https://img.shields.io/badge/LEETCODE-07111f?style=for-the-badge&logo=leetcode&logoColor=ffa116" alt="LeetCode"/></a>
 
 <br><br>
 
-<a href="https://github.com/arish096">
-<img src="https://img.shields.io/badge/BUILDING_THE_FUTURE-66ffb3?style=for-the-badge&logoColor=black"/>
-</a>
+### `BUILD • LEARN • EXPERIMENT • IMPROVE`
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111f,50:063b28,100:071a12&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111f,50:063b28,100:071a12&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
