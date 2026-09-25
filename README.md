@@ -1,19 +1,20 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Arish Islam
 
 ### Web Developer | AI & Prompt Engineering | AI-Powered Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=750&lines=Building+AI-powered+web+applications;Creating+AI+workflows+%26+automation;Exploring+DSA+in+C%2B%2B;Turning+ideas+into+working+projects" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=750&lines=Building+AI-powered+web+applications;Creating+AI+workflows+%26+automation;Exploring+DSA+in+C%2B%2B;Turning+ideas+into+working+projects" alt="Typing Animation">
 
 <br>
 
 <a href="https://github.com/arish096">
-<img src="https://img.shields.io/badge/GitHub-arish096-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-arish096-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<a href="https://github.com/arish096?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-2F81F7?style=for-the-badge&logo=github" alt="Repositories">
+<a href="mailto:arishislam096@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
@@ -26,12 +27,12 @@
 
 ## 🚀 About Me
 
-I'm a developer interested in **Web Development, Artificial Intelligence, Prompt Engineering, and AI-powered applications**.
+I'm a developer focused on **Web Development, Artificial Intelligence, Prompt Engineering, and AI-powered applications**.
 
 - 💻 Building modern and practical web applications
 - 🤖 Exploring AI agents, AI workflows, and automation
 - 🧠 Currently practicing **DSA in C++**
-- 🛠️ Building projects to learn through real-world implementation
+- 🛠️ Building real-world projects through hands-on learning
 - 🔎 Exploring modern AI and developer tools
 - 📚 Continuously learning, experimenting, and improving
 
@@ -42,78 +43,111 @@ I'm a developer interested in **Web Development, Artificial Intelligence, Prompt
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" alt="Web Development Stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" alt="Web Development">
 </p>
 
-### 💻 Programming & Developer Tools
+### 💻 Programming & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" alt="Programming and Developer Tools">
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" alt="Programming & Tools">
 </p>
 
-### 🤖 AI & Automation Tools
+### 🤖 AI & Automation
 
 <p>
-
 <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
-
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
-
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" alt="DeepSeek">
-
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logoColor=white" alt="Perplexity">
-
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-
 <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
-
 <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok">
-
 <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white" alt="Lovable">
-
 </p>
 
 ---
 
 # ⭐ Featured Projects
 
-## ✈️ AI Radar — Live Flight Tracker
+### ✈️ AI Radar — Live Flight Tracker
 
-A live flight tracking application designed to visualize aircraft information through an interactive radar-style interface.
+> **Real-time flight tracking with an interactive radar-style interface.**
 
-**Focus:** AI • Web Development • Real-time Data
+Built to visualize aircraft information and explore real-time aviation data through a modern web interface.
 
-🔗 **[View Project →](https://github.com/arish096/AI-Radar---Live-Flight-Tracker-)**
+**Focus:** `Web Development` `AI` `Real-time Data`
+
+<p>
+<a href="https://github.com/arish096/AI-Radar---Live-Flight-Tracker-">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="View AI Radar Project">
+</a>
+</p>
 
 ---
 
-## 🍎 Apple Support AI Agent
+### 🍎 Apple Support AI Agent
 
-An AI-powered customer support system created for the **Hiver SDE Intern Take-Home Assignment**.
+> **AI-powered customer support agent built for the Hiver SDE Intern Take-Home Assignment.**
 
-**Built with:** Python • NLP • TF-IDF • Logistic Regression • Streamlit
+Uses NLP and machine learning to classify support intents, retrieve similar historical cases, generate evidence-grounded replies, and decide between **AUTO-HANDLE** and **ESCALATE**.
 
-### Key Features
+**Built with:** `Python` `NLP` `TF-IDF` `Logistic Regression` `Streamlit`
 
-- 🎯 Intent classification
-- 🔎 Historical support-case retrieval
-- 🧠 Evidence-grounded reply generation
-- ⚡ AUTO-HANDLE vs ESCALATE decision system
-- 🛡️ Safer handling of weak or ambiguous evidence
+<p>
+<a href="https://github.com/arish096/apple-support-ai-agent">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="View Apple Support AI Agent">
+</a>
+</p>
 
-🔗 **[View Project →](https://github.com/arish096/apple-support-ai-agent)**
+---
+
+### 🧠 DSA in C++
+
+> **My ongoing journey of learning Data Structures and Algorithms in C++.**
+
+Practicing core programming concepts, problem-solving techniques, searching algorithms, arrays, pointers, bit manipulation, and progressively more advanced DSA topics.
+
+**Focus:** `C++` `DSA` `Problem Solving` `Algorithms`
+
+<p>
+<a href="(https://github.com/arish096/DSA-IN-Cpp)">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="View DSA Repository">
+</a>
+</p>
+
+---
+
+### 🩺 MedVitals AI — Medical AI Chatbot
+
+> **AI-powered medical education chatbot with multimodal interaction.**
+
+An experimental AI application exploring text, image, voice, and future video-based interaction for educational medical information, with an appropriate medical-information disclaimer.
+
+**Focus:** `AI` `Computer Vision` `Voice AI` `Streamlit`
+
+<p>
+<a href="https://github.com/arish096/MedVitals.AI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="View MedVitals AI Project">
+</a>
+</p>
 
 ---
 
 # 🧠 Currently Exploring
+```
+<div align="center">
 
 DSA in C++           ███████████████░░░
 Modern Web Dev       ██████████████░░░░
 AI Applications      ███████████████░░░
 AI Workflows         ██████████████░░░░
 Prompt Engineering   ███████████████░░░
+```
+
+### Learn → Build → Test → Improve → Ship 🚀
+
+</div>
 
 ---
 
@@ -121,47 +155,49 @@ Prompt Engineering   ███████████████░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=arish096&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800" width="49%" alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="49%" alt="Top Languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=arish096&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=arish096&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub Streak">
 
 </div>
 
 ---
 
-# 🐍 Contribution Animation
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake">
 
 </div>
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arish096&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arish096&theme=github-compact&hide_border=true&area=true&custom_title=Arish's%20GitHub%20Activity" width="95%" alt="GitHub Activity Graph">
 
 </div>
 
 ---
 
-# 💡 Developer Mindset
+# 🎯 What I'm Working Towards
 
 <div align="center">
 
-### **Learn → Build → Test → Improve → Ship**
+### Building useful software with **Web + AI + Automation**
+
+<br>
+
+**DSA** • **Web Development** • **AI Applications** • **Prompt Engineering** • **Automation**
 
 </div>
-
-I believe the best way to learn technology is by **building real projects, solving problems, experimenting with new tools, and continuously improving**.
 
 ---
 
@@ -170,11 +206,11 @@ I believe the best way to learn technology is by **building real projects, solvi
 <div align="center">
 
 <a href="https://github.com/arish096">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-arish096-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<a href="https://github.com/arish096?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Projects-2F81F7?style=for-the-badge&logo=github" alt="Projects">
+<a href="mailto:arishislam096@gmail.com">
+<img src="https://img.shields.io/badge/Email-arishislam096%40gmail.com-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
