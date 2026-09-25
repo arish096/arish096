@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03150d"/><stop offset=".55" stop-color="#06251a"/><stop offset="1" stop-color="#00140d"/></linearGradient>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#36ff88"/><stop offset="1" stop-color="#7dffb2"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#1b6b45" stroke-opacity=".25"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="22" fill="url(#bg)"/><rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+<path d="M30 45V25H50M1150 25h20v20M30 375v20h20M1150 395h20v-20" fill="none" stroke="#3cff91" stroke-width="2"/>
+<g opacity=".55" filter="url(#glow)">
+ <circle cx="80" cy="110" r="3" fill="#62ffad"><animate attributeName="cy" values="110;310;110" dur="7s" repeatCount="indefinite"/></circle>
+ <circle cx="1060" cy="120" r="3" fill="#62ffad"><animate attributeName="cy" values="120;330;120" dur="5s" repeatCount="indefinite"/></circle>
+ <circle cx="760" cy="60" r="2" fill="#62ffad"><animate attributeName="cx" values="760;900;760" dur="6s" repeatCount="indefinite"/></circle>
+ <circle cx="410" cy="360" r="2" fill="#62ffad"><animate attributeName="cx" values="410;300;410" dur="4s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="78" y="92" fill="#4dff9b" font-size="14" letter-spacing="5">ARISH ISLAM / DEVELOPER</text>
+ <text x="78" y="172" fill="#e8fff2" font-size="58" font-weight="800">BUILDING WITH AI</text>
+ <text x="82" y="214" fill="#52ff9d" font-size="22" letter-spacing="3">WEB • AI • AUTOMATION • C++ / DSA</text>
+ <text x="82" y="260" fill="#b9d9c7" font-size="16">Web Developer · AI &amp; Prompt Engineering · AI-Powered Applications</text>
+ <g transform="translate(82 305)"><rect width="185" height="46" rx="10" fill="#071d13" stroke="#2fe77e"/><text x="22" y="29" fill="#caffdf" font-size="14">EXPLORE PROJECTS</text></g>
+ <g transform="translate(285 305)"><rect width="170" height="46" rx="10" fill="#071d13" stroke="#2fe77e"/><text x="22" y="29" fill="#caffdf" font-size="14">OPEN SOURCE</text></g>
+</g>
+<g transform="translate(785 82)" stroke="#38ff8b" fill="none">
+ <rect x="0" y="0" width="325" height="235" rx="14" stroke-opacity=".7"/>
+ <path d="M25 55h275M25 90h275M25 125h275M25 160h275M25 195h275" stroke-opacity=".15"/>
+ <path d="M35 185 C85 120 125 170 165 95 S245 135 290 45" stroke-width="3" filter="url(#glow)" stroke-dasharray="12 10"><animate attributeName="stroke-dashoffset" from="0" to="-220" dur="5s" repeatCount="indefinite"/></path>
+ <circle cx="165" cy="95" r="7" fill="#38ff8b"><animate attributeName="r" values="5;11;5" dur="1.6s" repeatCount="indefinite"/></circle>
+ <text x="24" y="30" fill="#7dffb2" stroke="none" font-size="11" letter-spacing="3">LIVE SYSTEM / ONLINE</text>
+</g>
+</svg>
