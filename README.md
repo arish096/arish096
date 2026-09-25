@@ -109,37 +109,11 @@ An AI-powered customer support system created for the **Hiver SDE Intern Take-Ho
 
 # 🧠 Currently Exploring
 
-```text
 DSA in C++           ███████████████░░░
 Modern Web Dev       ██████████████░░░░
 AI Applications      ███████████████░░░
 AI Workflows         ██████████████░░░░
 Prompt Engineering   ███████████████░░░
-
-```
-
-        ┌──────────┐
-        │  Learn   │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │  Build   │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │   Test   │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │ Improve  │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │   Ship   │
-        └────┬─────┘
-             │
-             └──────────────→ Repeat 🚀
-```
 
 ---
 
