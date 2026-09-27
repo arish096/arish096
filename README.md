@@ -1,6 +1,8 @@
-![ARISH ISLAM - Animated Banner](./ARISH_Chat_Motion_GitHub_Banner(1).gif)
-
 <div align="center">
+
+<img src="./ARISH_Chat_Motion_GitHub_Banner(1).gif"
+     width="100%"
+     alt="ARISH ISLAM Animated Banner"/>
 
 # 💜 ARISH ISLAM
 
@@ -107,6 +109,18 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 <br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arish096&bg_color=0d1117&color=C084FC&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 `CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake-dark.svg"
+     width="100%"
+     alt="GitHub Contribution Snake"/>
 
 </div>
 
