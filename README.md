@@ -1,8 +1,8 @@
 <div align="center">
 
-ARISH ISLAM
+# ARISH ISLAM
 
-Web Developer | AI & Prompt Engineering | AI-Powered Applications
+### Web Developer | AI & Prompt Engineering | AI-Powered Applications
 
 <p>
   <a href="https://github.com/arish096">
@@ -16,38 +16,44 @@ Web Developer | AI & Prompt Engineering | AI-Powered Applications
   </a>
 </p>
 
-Building AI-Powered Web Applications
+**Building AI-Powered Web Applications**
 
 </div>
 
-> about.me
+---
 
-I build practical web applications and explore AI, prompt engineering, AI workflows, and automation—while strengthening my problem-solving foundation through DSA with C++.
+## > about.me
 
-// tech stack
+I build practical web applications and explore **AI, prompt engineering, AI workflows, and automation**—while strengthening my problem-solving foundation through DSA with C++.
+
+---
+
+## // tech stack
 
 <div align="center">
 
-
-
-
-
-
-
-
-
+![HTML5](https://img.shields.io/badge/HTML5-0b1f3a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0b1f3a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1f3a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-0b1f3a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-0b1f3a?style=for-the-badge&logo=python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-0b1f3a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0b1f3a?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0b1f3a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
-// ai tools
+---
+
+## // ai tools
 
 <div align="center">
 
-
-
-
-
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0b1f3a?style=for-the-badge&logo=openai&logoColor=74AA9C)
+![Claude](https://img.shields.io/badge/Claude-0b1f3a?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Gemini](https://img.shields.io/badge/Gemini-0b1f3a?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0b1f3a?style=for-the-badge&logoColor=22d3ee)
+![Perplexity](https://img.shields.io/badge/Perplexity-0b1f3a?style=for-the-badge&logo=perplexity&logoColor=20B8CD)
 
 </div>
 
@@ -55,23 +61,27 @@ I build practical web applications and explore AI, prompt engineering, AI workfl
 AI tools I explore for research, prompting, and practical workflows.
 </p>
 
-// featured projects
+---
 
-01 · AI Radar — Live Flight Tracker
+## // featured projects
+
+### 01 · AI Radar — Live Flight Tracker
 
 Live flight tracking project focused on real-time data, AI/web technology, and an interactive radar-style experience.
 
-View Repository ↗
+**[View Repository ↗](https://github.com/arish096/AI-Radar---Live-Flight-Tracker-)**
 
-02 · Apple Support AI Agent
+### 02 · Apple Support AI Agent
 
 AI-powered customer support agent using Python, NLP, TF-IDF, Logistic Regression, Streamlit, intent classification, case retrieval, evidence-grounded replies, and AUTO-HANDLE vs ESCALATE decisions.
 
-View Repository ↗
+**[View Repository ↗](https://github.com/arish096/apple-support-ai-agent)**
 
-🌐 my portfolio
+---
 
-Arish Islam · Portfolio
+## 🌐 my portfolio
+
+### Arish Islam · Portfolio
 
 Explore projects, skills, experience/work, certification, and contact information.
 
@@ -81,30 +91,36 @@ Explore projects, skills, experience/work, certification, and contact informatio
   </a>
 </p>
 
-🏆 certification
+---
 
-Professional Certification
+## 🏆 certification
+
+**Professional Certification**
 
 Certificate name, issuer, date, and verification link can be added here.
 
-DETAILS PENDING
+> `DETAILS PENDING`
 
-// learning & goals
+---
 
-LEARNING
+## // learning & goals
 
-DSA with C++ · AI Agents · AI Automation · Web Development
+**LEARNING**
 
-Goals
+`DSA with C++` · `AI Agents` · `AI Automation` · `Web Development`
 
-Build AI-powered applications
-Improve DSA with C++
-Create practical AI agents
-Explore AI automation
-Improve modern web development
-Document projects consistently
+### Goals
 
-// github activity
+`Build AI-powered applications`  
+`Improve DSA with C++`  
+`Create practical AI agents`  
+`Explore AI automation`  
+`Improve modern web development`  
+`Document projects consistently`
+
+---
+
+## // github activity
 
 <div align="center">
 
@@ -125,7 +141,9 @@ Document projects consistently
   <sub>These analytics are live external embeds; no statistics are hardcoded.</sub>
 </p>
 
-// connect
+---
+
+## // connect
 
 <div align="center">
 
@@ -143,8 +161,10 @@ Document projects consistently
 
 </div>
 
+---
+
 <div align="center">
 
-BUILD. LEARN. EXPERIMENT. REPEAT.
+### BUILD. LEARN. EXPERIMENT. REPEAT.
 
 </div>
