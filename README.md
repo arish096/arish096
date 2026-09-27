@@ -4,23 +4,32 @@
      width="100%"
      alt="ARISH ISLAM Animated Banner"/>
 
+<br/>
+
 # 💜 ARISH ISLAM
 
 ### `Web Developer` · `AI & Prompt Engineering` · `AI-Powered Applications`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Web+Applications;Exploring+AI+Agents+%26+Automation;Learning+DSA+with+C%2B%2B;Turning+Ideas+into+Useful+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=C084FC&center=true&vCenter=true&width=720&lines=Building+AI-Powered+Web+Applications;Exploring+AI+Agents+%26+Automation;Learning+DSA+with+C%2B%2B;Turning+Ideas+into+Useful+Products" alt="Typing SVG"/>
 
-<p>
-  <a href="https://github.com/arish096">
-    <img src="https://img.shields.io/badge/GitHub-ARISH096-18122B?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  <a href="https://arish096.github.io/arish096/">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Arish_Islam/">
-    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/arish096">
+  <img src="https://img.shields.io/badge/GitHub-ARISH096-18122B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://arish096.github.io/arish096/">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Arish_Islam/">
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="mailto:arishislam096@gmail.com">
+  <img src="https://img.shields.io/badge/Email-arishislam096%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=arish096&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -32,7 +41,11 @@
 
 I build practical web applications and explore **AI, prompt engineering, AI workflows, and automation** while strengthening my problem-solving foundation through **DSA with C++**.
 
-**Current focus:** AI-powered applications · AI agents · automation · modern web development · DSA
+<div align="center">
+
+`AI-Powered Apps` · `AI Agents` · `Automation` · `Web Development` · `DSA`
+
+</div>
 
 ---
 
@@ -40,7 +53,7 @@ I build practical web applications and explore **AI, prompt engineering, AI work
 
 <div align="center">
 
-| 🌐 FRONTEND | ⚙️ BACKEND | 🤖 AI & DATA | ☁️ TOOLS & CLOUD |
+| 🌐 FRONTEND | ⚙️ BACKEND | 🤖 AI & DATA | ☁️ TOOLS |
 |:---:|:---:|:---:|:---:|
 | HTML5 | Node.js | Python | Git |
 | CSS3 | Express.js | AI / LLMs | GitHub |
@@ -56,11 +69,20 @@ I build practical web applications and explore **AI, prompt engineering, AI work
 
 <div align="center">
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-18122B?style=for-the-badge&logo=openai&logoColor=74AA9C)
-![Claude](https://img.shields.io/badge/Claude-18122B?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![Gemini](https://img.shields.io/badge/Gemini-18122B?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8)
-![Python](https://img.shields.io/badge/Python-18122B?style=for-the-badge&logo=python&logoColor=3776AB)
-![LangChain](https://img.shields.io/badge/LangChain-18122B?style=for-the-badge&logo=chainlink&logoColor=22C55E)
+<a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/ChatGPT-18122B?style=for-the-badge&logo=openai&logoColor=74AA9C" /></a>
+<a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-18122B?style=for-the-badge&logo=anthropic&logoColor=D97757" /></a>
+<a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-18122B?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8" /></a>
+<a href="https://www.deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-18122B?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" /></a>
+<a href="https://grok.com/"><img src="https://img.shields.io/badge/Grok-18122B?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://lovable.dev/"><img src="https://img.shields.io/badge/Lovable-18122B?style=for-the-badge&logo=lovable&logoColor=FF69B4" /></a>
+<a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-18122B?style=for-the-badge&logo=replit&logoColor=F26207" /></a>
+<a href="https://www.emergent.sh/"><img src="https://img.shields.io/badge/Emergent_AI-18122B?style=for-the-badge&logo=ai&logoColor=C084FC" /></a>
+<a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-18122B?style=for-the-badge&logo=n8n&logoColor=EA4B71" /></a>
+<a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-18122B?style=for-the-badge&logo=unity&logoColor=white" /></a>
+<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-18122B?style=for-the-badge&logo=cursor&logoColor=white" /></a>
+<a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-18122B?style=for-the-badge&logo=google&logoColor=8AB4F8" /></a>
+<a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-18122B?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-18122B?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>
 
 </div>
 
@@ -68,30 +90,57 @@ I build practical web applications and explore **AI, prompt engineering, AI work
 
 ## 🚀 `FEATURED PROJECTS`
 
+<div align="center">
+
 ### ✈️ AI Radar — Live Flight Tracker
+
 AI-powered live flight tracker using **OpenSky Network API, React, Leaflet, Node.js, TypeScript and MCP** for real-time aircraft tracking and intelligent flight data.
 
-**[↗ View Repository](https://github.com/arish096/AI-Radar---Live-Flight-Tracker-)**
+<a href="https://github.com/arish096/AI-Radar---Live-Flight-Tracker-">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 ### 🍎 Apple Support AI Agent
+
 AI-powered customer-support agent with **intent classification, historical retrieval, grounded replies, and safe escalation**.
 
-**[↗ View Repository](https://github.com/arish096/apple-support-ai-agent)**
+<a href="https://github.com/arish096/apple-support-ai-agent">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=18122B" />
+</a>
+
+<br/><br/>
 
 ### 🏥 MedVitals.AI
+
 AI-powered assistant built with **Python and Streamlit**, supporting symptom analysis, medical images, videos, voice input, voice responses, PDF reports and chat history.
 
-**[↗ View Repository](https://github.com/arish096/MedVitals.AI)**
+<a href="https://github.com/arish096/MedVitals.AI">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 ### 🧠 DSA in C++
+
 A structured DSA journey in **C++**, focused on beginner-friendly solutions, patterns and problem-solving practice.
 
-**[↗ View Repository](https://github.com/arish096/DSA-IN-Cpp)**
+<a href="https://github.com/arish096/DSA-IN-Cpp">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=18122B" />
+</a>
+
+<br/><br/>
 
 ### 🎨 AI YouTube Thumbnail Generator
+
 AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 
-**[↗ View Repository](https://github.com/arish096/ai-youtube-thumbnail-generator)**
+<a href="https://github.com/arish096/ai-youtube-thumbnail-generator">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -126,29 +175,21 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 
 ---
 
-## 🏆 `GITHUB ACHIEVEMENTS`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arish096&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/arish096)
-
-</div>
-
----
-
 ## 🎯 `LEARNING & MISSION`
 
 <div align="center">
 
 `DSA with C++` · `AI Agents` · `AI Automation` · `Web Development`
 
-</div>
+<br/><br/>
 
-- ⚡ Build practical AI-powered applications
-- 🧠 Improve DSA and problem solving with C++
-- 🤖 Create useful AI agents and workflows
-- 🌐 Keep improving modern web development
-- 📚 Document projects and learning consistently
+⚡ **Build** practical AI-powered applications  
+🧠 **Improve** DSA and problem solving with C++  
+🤖 **Create** useful AI agents and workflows  
+🌐 **Explore** modern web development  
+📚 **Document** projects and learning consistently
+
+</div>
 
 ---
 
@@ -162,6 +203,12 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
   <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=18122B" />
 </a>
 
+<br/><br/>
+
+<a href="mailto:arishislam096@gmail.com">
+  <img src="https://img.shields.io/badge/✉%20CONTACT%20ME-arishislam096%40gmail.com-EC4899?style=for-the-badge&labelColor=18122B" />
+</a>
+
 </div>
 
 ---
@@ -171,13 +218,16 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 <div align="center">
 
 <a href="https://github.com/arish096">
-<img src="https://img.shields.io/badge/GitHub-18122B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-18122B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/Arish_Islam/">
-<img src="https://img.shields.io/badge/LeetCode-18122B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/LeetCode-18122B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 <a href="https://arish096.github.io/arish096/">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:arishislam096@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
