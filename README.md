@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,35:0b1f3a,72:075985,100:7c3aed&amp;height=240&amp;section=header&amp;text=ARISH%20ISLAM&amp;fontSize=54&amp;fontColor=f8fafc&amp;fontAlignY=36&amp;desc=WEB%20DEVELOPER%20%7C%20AI%20%26%20PROMPT%20ENGINEERING%20%7C%20AI-POWERED%20APPLICATIONS&amp;descAlignY=58&amp;descSize=14&amp;animation=twinkling" alt="Animated ARISH ISLAM hero banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/arish096/arish096/main/assets/arish-futuristic-banner.gif" alt="Animated futuristic ARISH ISLAM hero banner" width="100%" />
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 I build practical web applications and explore **AI, prompt engineering, AI-powered applications, workflow creation, and automation**. I am currently strengthening my problem-solving foundation through **DSA with C++** while continuing to learn through practical developer projects.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0b1f3a,50:075985,100:06b6d4&amp;height=2&amp;section=header" alt="" width="82%" />
+  <hr />
 </div>
 
 ## `// tech stack`
@@ -77,6 +77,22 @@ I build practical web applications and explore **AI, prompt engineering, AI-powe
       <p>AI-powered customer support agent built with Python, NLP, TF-IDF, Logistic Regression, and Streamlit, featuring intent classification, historical case retrieval, evidence-grounded replies, and AUTO-HANDLE vs ESCALATE decisions.</p>
       <a href="https://github.com/arish096/apple-support-ai-agent">
         <img src="https://img.shields.io/badge/View%20Repository-06b6d4?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="View Apple Support AI Agent repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ MedVitals AI</h3>
+      <p>Multimodal AI medical assistant built with Python and Streamlit for educational text, image, video, voice, and report-based exploration.</p>
+      <a href="https://github.com/arish096/MedVitals.AI">
+        <img src="https://img.shields.io/badge/View%20Repository-06b6d4?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="View MedVitals AI repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ DSA in C++</h3>
+      <p>Data Structures and Algorithms learning journey in C++ with beginner-friendly solutions, patterns, and problem-solving practice.</p>
+      <a href="https://github.com/arish096/DSA-IN-Cpp">
+        <img src="https://img.shields.io/badge/View%20Repository-06b6d4?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="View DSA in C++ repository" />
       </a>
     </td>
   </tr>
@@ -177,5 +193,5 @@ I build practical web applications and explore **AI, prompt engineering, AI-powe
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,35:075985,70:0b1f3a,100:020617&amp;height=145&amp;section=footer&amp;text=BUILD.%20LEARN.%20EXPERIMENT.%20REPEAT.&amp;fontSize=20&amp;fontColor=f8fafc&amp;fontAlignY=63&amp;animation=twinkling" alt="Animated footer: Build. Learn. Experiment. Repeat." width="100%" />
+  <img src="https://raw.githubusercontent.com/arish096/arish096/main/assets/arish-futuristic-footer.gif" alt="Animated footer: Build. Learn. Experiment. Repeat." width="100%" />
 </div>
