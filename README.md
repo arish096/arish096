@@ -1,4 +1,4 @@
-![ARISH ISLAM - Animated Banner](./ARISH_Chat_Motion_GitHub_Banner.gif)
+![ARISH ISLAM - Animated Banner](./ARISH_Chat_Motion_GitHub_Banner(1).gif)
 
 <div align="center">
 
