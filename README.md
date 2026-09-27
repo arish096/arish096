@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arish096/arish096/main/assets/arish-futuristic-banner.gif" alt="Animated futuristic ARISH ISLAM hero banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/arish096/arish096/main/assets/arish-futuristic-banner.gif" width="100%" alt="Arish Islam Futuristic Banner">
 </div>
 
+<br>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/295182403?v=4" alt="Arish Islam GitHub avatar" width="145" />
   <br />
@@ -192,6 +193,8 @@ I build practical web applications and explore **AI, prompt engineering, AI-powe
 
 <br />
 
+<br>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arish096/arish096/main/assets/arish-futuristic-footer.gif" alt="Animated footer: Build. Learn. Experiment. Repeat." width="100%" />
+  <img src="https://raw.githubusercontent.com/arish096/arish096/main/assets/arish-futuristic-footer.gif" width="100%" alt="Arish Islam Futuristic Footer">
 </div>
