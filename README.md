@@ -1,3 +1,5 @@
+![ARISH ISLAM - Animated Banner](./ARISH_Chat_Motion_GitHub_Banner.gif)
+
 <div align="center">
 
 # 💜 ARISH ISLAM
