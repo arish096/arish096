@@ -17,7 +17,7 @@
 <a href="https://github.com/arish096">
   <img src="https://img.shields.io/badge/GitHub-ARISH096-18122B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://arish096.github.io/arish096/">
+<a href="https://arish-islam-portfolio.lovable.app/">
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/Arish_Islam/">
@@ -249,7 +249,7 @@ DSA with C++ · AI Agents · AI Automation · Web Development
 <a href="https://leetcode.com/u/Arish_Islam/">
   <img src="https://img.shields.io/badge/LeetCode-18122B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-<a href="https://arish096.github.io/arish096/">
+<a href="https://arish-islam-portfolio.lovable.app/">
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:arishislam096@gmail.com">
