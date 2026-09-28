@@ -173,53 +173,44 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 </div>
 
 ---
-
 <!-- ==================== GITHUB COMMAND CENTER ==================== -->
 
 <h2 align="left">📊 GITHUB COMMAND CENTER</h2>
 
 <p align="center">
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arish096&theme=github_dark"
     width="48%"
-    alt="GitHub Statistics"
+    alt="GitHub Stats"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arish096&theme=github_dark"
     width="48%"
-    alt="Top Languages by Repository"
+    alt="Top Languages"
   />
-
 </p>
 
 <br>
 
 <p align="center">
-
   <img
-    src="https://streak-stats.demolab.com?user=arish096&theme=dark&hide_border=true&background=18122B&ring=8B5CF6&fire=22D3EE&currStreakNum=E9D5FF&sideNums=93C5FD&currStreakLabel=C084FC&sideLabels=67E8F9&dates=94A3B8"
-    width="72%"
-    alt="GitHub Streak Statistics"
+    src="https://streak-stats.demolab.com?user=arish096&theme=dark&hide_border=true&background=0B1120&ring=7C3AED&fire=22D3EE&currStreakNum=E2E8F0&sideNums=93C5FD&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"
+    width="75%"
+    alt="GitHub Streak"
   />
-
 </p>
 
 <br>
 
 <p align="center">
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arish096&theme=github_dark"
     width="96%"
     alt="GitHub Contribution Overview"
   />
-
 </p>
 
 <!-- ==================== END GITHUB COMMAND CENTER ==================== -->
-
 ---
 
 ## 🎯 LEARNING & MISSION
