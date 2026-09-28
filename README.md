@@ -179,47 +179,46 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 <h2 align="left">📊 GITHUB COMMAND CENTER</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arish096&theme=github_dark"
-    width="95%"
-    alt="GitHub Profile Details"
-  />
-</p>
 
-<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arish096&theme=github_dark"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arish096&theme=github_dark"
-    width="46%"
+    width="48%"
     alt="Top Languages by Repository"
   />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arish096&theme=github_dark"
-    width="46%"
-    alt="Most Used Languages by Commits"
-  />
+
 </p>
 
+<br>
+
 <p align="center">
+
   <img
-    src="https://streak-stats.demolab.com?user=arish096&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"
-    width="70%"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com?user=arish096&theme=dark&hide_border=true&background=18122B&ring=8B5CF6&fire=22D3EE&currStreakNum=E9D5FF&sideNums=93C5FD&currStreakLabel=C084FC&sideLabels=67E8F9&dates=94A3B8"
+    width="72%"
+    alt="GitHub Streak Statistics"
   />
+
+</p>
+
+<br>
+
+<p align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arish096&theme=github_dark"
+    width="96%"
+    alt="GitHub Contribution Overview"
+  />
+
 </p>
 
 <!-- ==================== END GITHUB COMMAND CENTER ==================== -->
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake-dark.svg"
-     width="100%"
-     alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
