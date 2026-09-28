@@ -176,46 +176,39 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 
 <!-- ==================== GITHUB COMMAND CENTER ==================== -->
 
-<h2 align="left">
-  📊 GITHUB COMMAND CENTER
-</h2>
+<h2 align="left">📊 GITHUB COMMAND CENTER</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish096&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1"
-    height="220"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arish096&theme=github_dark"
+    width="95%"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arish096&theme=github_dark"
+    width="46%"
+    alt="Top Languages by Repository"
   />
   &nbsp;&nbsp;
   <img
-    src="https://streak-stats.demolab.com?user=arish096&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"
-    height="220"
-    alt="GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arish096&theme=github_dark"
+    width="46%"
+    alt="Most Used Languages by Commits"
   />
 </p>
 
-<br>
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=arish096&bg_color=0D1117&color=22D3EE&line=7C3AED&point=22D3EE&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arish096&theme=tokyonight"
-    width="95%"
-    alt="GitHub Profile Summary"
+    src="https://streak-stats.demolab.com?user=arish096&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"
+    width="70%"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 <!-- ==================== END GITHUB COMMAND CENTER ==================== -->
-
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
