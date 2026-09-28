@@ -8,7 +8,7 @@
 
 # 💜 ARISH ISLAM
 
-### `Web Developer` · `AI & Prompt Engineering` · `AI-Powered Applications`
+### Web Developer · AI & Prompt Engineering · AI-Powered Applications
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=C084FC&center=true&vCenter=true&width=720&lines=Building+AI-Powered+Web+Applications;Exploring+AI+Agents+%26+Automation;Learning+DSA+with+C%2B%2B;Turning+Ideas+into+Useful+Products" alt="Typing SVG"/>
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌌 `ABOUT.ME`
+## 🌌 ABOUT.ME
 
 > **Building useful things at the intersection of Web Development, AI, and Automation.**
 
@@ -43,29 +43,59 @@ I build practical web applications and explore **AI, prompt engineering, AI work
 
 <div align="center">
 
-`AI-Powered Apps` · `AI Agents` · `Automation` · `Web Development` · `DSA`
+AI-Powered Apps · AI Agents · Automation · Web Development · DSA
 
 </div>
 
 ---
 
-## 🪐 `TECHNOLOGY UNIVERSE`
+## 🪐 TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-| 🌐 FRONTEND | ⚙️ BACKEND | 🤖 AI & DATA | ☁️ TOOLS |
-|:---:|:---:|:---:|:---:|
-| HTML5 | Node.js | Python | Git |
-| CSS3 | Express.js | AI / LLMs | GitHub |
-| JavaScript | REST APIs | Prompt Engineering | VS Code |
-| React | TypeScript | LangChain | Streamlit |
-| UI / Web | MongoDB | AI Automation | APIs |
+### 🌐 FRONTEND
+
+<a href="#"><img src="https://img.shields.io/badge/HTML5-18122B?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-18122B?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-18122B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+<a href="#"><img src="https://img.shields.io/badge/React-18122B?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-18122B?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
+
+<br/>
+
+### ⚙️ BACKEND & DATABASE
+
+<a href="#"><img src="https://img.shields.io/badge/Node.js-18122B?style=for-the-badge&logo=node.js&logoColor=339933" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Express.js-18122B?style=for-the-badge&logo=express&logoColor=FFFFFF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-18122B?style=for-the-badge&logo=mongodb&logoColor=47A248" /></a>
+<a href="#"><img src="https://img.shields.io/badge/REST%20API-18122B?style=for-the-badge&logo=fastapi&logoColor=009688" /></a>
+
+<br/>
+
+### 🤖 AI & PROGRAMMING
+
+<a href="#"><img src="https://img.shields.io/badge/Python-18122B?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
+<a href="#"><img src="https://img.shields.io/badge/C%2B%2B-18122B?style=for-the-badge&logo=cplusplus&logoColor=00599C" /></a>
+<a href="#"><img src="https://img.shields.io/badge/AI%20%2F%20LLMs-18122B?style=for-the-badge&logo=openai&logoColor=74AA9C" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Prompt%20Engineering-18122B?style=for-the-badge&logo=probot&logoColor=C084FC" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LangChain-18122B?style=for-the-badge&logo=langchain&logoColor=1C3C3C" /></a>
+<a href="#"><img src="https://img.shields.io/badge/AI%20Automation-18122B?style=for-the-badge&logo=robotframework&logoColor=C084FC" /></a>
+
+<br/>
+
+### 🛠️ TOOLS & PLATFORMS
+
+<a href="#"><img src="https://img.shields.io/badge/Git-18122B?style=for-the-badge&logo=git&logoColor=F05032" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-18122B?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/VS%20Code-18122B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Streamlit-18122B?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" /></a>
+<a href="#"><img src="https://img.shields.io/badge/APIs-18122B?style=for-the-badge&logo=swagger&logoColor=85EA2D" /></a>
 
 </div>
 
 ---
 
-## 🤖 `AI TOOLKIT`
+## 🤖 AI TOOLKIT
 
 <div align="center">
 
@@ -88,7 +118,7 @@ I build practical web applications and explore **AI, prompt engineering, AI work
 
 ---
 
-## 🚀 `FEATURED PROJECTS`
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
@@ -144,7 +174,7 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 
 ---
 
-## 📊 `GITHUB COMMAND CENTER`
+## 📊 GITHUB COMMAND CENTER
 
 <div align="center">
 
@@ -163,7 +193,7 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 
 ---
 
-## 🐍 `CONTRIBUTION SNAKE`
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -175,11 +205,11 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 
 ---
 
-## 🎯 `LEARNING & MISSION`
+## 🎯 LEARNING & MISSION
 
 <div align="center">
 
-`DSA with C++` · `AI Agents` · `AI Automation` · `Web Development`
+DSA with C++ · AI Agents · AI Automation · Web Development
 
 <br/><br/>
 
@@ -193,27 +223,23 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 
 ---
 
-## 🌐 `PORTFOLIO`
+## 🌐 PORTFOLIO
 
 <div align="center">
 
 ### **ARISH ISLAM · DIGITAL WORKSPACE**
 
-<a href="https://arish096.github.io/arish096/">
+<a href="https://arish-islam-portfolio.lovable.app/">
   <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=18122B" />
 </a>
 
 <br/><br/>
 
-<a href="mailto:arishislam096@gmail.com">
-  <img src="https://img.shields.io/badge/✉%20CONTACT%20ME-arishislam096%40gmail.com-EC4899?style=for-the-badge&labelColor=18122B" />
-</a>
-
 </div>
 
 ---
 
-## 💜 `CONNECT`
+## 💜 CONNECT
 
 <div align="center">
 
@@ -236,7 +262,7 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 
 <div align="center">
 
-### `BUILD · LEARN · EXPERIMENT · REPEAT`
+### BUILD · LEARN · EXPERIMENT · REPEAT
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
 
