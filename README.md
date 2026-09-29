@@ -220,6 +220,7 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
     alt="GitHub Contribution Snake"
   />
 </p>
+
 ---
 
 ## 🎯 LEARNING & MISSION
