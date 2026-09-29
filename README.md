@@ -179,12 +179,12 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arish096&theme=github_dark"
+    src="./profile/stats.svg"
     width="48%"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arish096&theme=github_dark"
+    src="./profile/top-langs.svg"
     width="48%"
     alt="Top Languages"
   />
@@ -197,16 +197,6 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
     src="https://streak-stats.demolab.com?user=arish096&theme=dark&hide_border=true&background=0B1120&ring=7C3AED&fire=22D3EE&currStreakNum=E2E8F0&sideNums=93C5FD&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"
     width="75%"
     alt="GitHub Streak"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arish096&theme=github_dark"
-    width="96%"
-    alt="GitHub Contribution Overview"
   />
 </p>
 
