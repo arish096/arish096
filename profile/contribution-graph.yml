@@ -1,0 +1,28 @@
+name: Update Contribution Graph
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  contributions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      - name: Generate contribution graph
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: arish096
+          cards: contributions
+          output-dir: profile
+          themes: dark
+          commit: true
+          commit-message: "chore(profile): update contribution graph [skip ci]"
