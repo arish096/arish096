@@ -200,6 +200,18 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
   />
 </p>
 
+<br>
+
+<h3 align="center">📈 CONTRIBUTION GRAPH</h3>
+
+<p align="center">
+  <img
+    src="./profile/contributions.dark.svg"
+    width="96%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
 <!-- ==================== END GITHUB COMMAND CENTER ==================== -->
 <br>
 
