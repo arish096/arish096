@@ -211,6 +211,15 @@ AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
 </p>
 
 <!-- ==================== END GITHUB COMMAND CENTER ==================== -->
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/arish096/arish096/output/github-contribution-grid-snake-dark.svg"
+    width="96%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 ---
 
 ## 🎯 LEARNING & MISSION
