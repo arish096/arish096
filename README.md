@@ -142,6 +142,17 @@ AI-powered customer-support agent with **intent classification, historical retri
 
 <br/><br/>
 
+### 📄 ResumeForge AI
+
+AI-powered resume builder for **students, freshers, and professionals**, featuring professional templates, AI-assisted resume creation, live preview, PDF generation, ATS-focused analysis, and job-specific resume workflows.
+
+<a href="https://github.com/arish096/resumeforge-ai">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+
 ### 🏥 MedVitals.AI
 
 AI-powered assistant built with **Python and Streamlit**, supporting symptom analysis, medical images, videos, voice input, voice responses, PDF reports and chat history.
