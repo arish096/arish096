@@ -165,7 +165,7 @@ AI-powered assistant built with **Python and Streamlit**, supporting symptom ana
 
 ### 🧠 DSA in C++
 
-A structured DSA journey in **C++**, focused on beginner-friendly solutions, patterns and problem-solving practice.
+A complete Data Structures & Algorithms (DSA) journey in C++ with beginner-friendly solutions, patterns, and problem-solving practice.
 
 <a href="https://github.com/arish096/DSA-IN-Cpp">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=18122B" />
