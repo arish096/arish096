@@ -114,7 +114,7 @@ AI-Powered Apps · AI Agents · Automation · Web Development · DSA
 <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-18122B?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
 <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-18122B?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>
 <a href="https://www.canva.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/CANVA-171329?style=for-the-badge&logo=canva&logoColor=9B8CFF" alt="Canva" />
 </a>
 
 </div>
@@ -281,6 +281,9 @@ DSA with C++ · AI Agents · AI Automation · Web Development
 </a>
 <a href="https://leetcode.com/u/Arish_Islam/">
   <img src="https://img.shields.io/badge/LeetCode-18122B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="https://www.hackerearth.com/@arishislam096/" target="_blank">
+  <img src="https://img.shields.io/badge/HackerEarth-171329?style=for-the-badge&logo=hackerearth&logoColor=9B8CFF" alt="HackerEarth" />
 </a>
 <a href="https://arish-islam-portfolio.lovable.app/">
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
