@@ -113,6 +113,9 @@ AI-Powered Apps · AI Agents · Automation · Web Development · DSA
 <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-18122B?style=for-the-badge&logo=google&logoColor=8AB4F8" /></a>
 <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-18122B?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
 <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-18122B?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</a>
 
 </div>
 
