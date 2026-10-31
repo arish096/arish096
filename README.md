@@ -262,7 +262,7 @@ DSA with C++ · AI Agents · AI Automation · Web Development
 
 ### **ARISH ISLAM · DIGITAL WORKSPACE**
 
-<a href="https://arish-islam-portfolio.lovable.app/">
+<a href="https://myportfolio-hxo2.onrender.com/">
   <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=18122B" />
 </a>
 
