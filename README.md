@@ -23,6 +23,9 @@
 <a href="https://leetcode.com/u/Arish_Islam/">
   <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
+<a href="https://www.hackerearth.com/@arishislam096/" target="_blank">
+  <img src="https://img.shields.io/badge/HackerEarth-171329?style=for-the-badge&logo=hackerearth&logoColor=9B8CFF" alt="HackerEarth" />
+</a>
 <a href="mailto:arishislam096@gmail.com">
   <img src="https://img.shields.io/badge/Email-arishislam096%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
