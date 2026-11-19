@@ -128,6 +128,16 @@ AI-Powered Apps · AI Agents · Automation · Web Development · DSA
 
 <div align="center">
 
+### 🤖 SupportMind AI
+
+Multi-agent AI customer support system built with **Python, FastAPI, React, SQLite, Google ADK and OpenRouter**, featuring intelligent ticket classification, customer memory, automated resolution, AI-powered quality review, and human approval workflows.
+
+<a href="https://github.com/arish096/SupportMind-AI">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
 ### ✈️ AI Radar — Live Flight Tracker
 
 AI-powered live flight tracker using **OpenSky Network API, React, Leaflet, Node.js, TypeScript and MCP** for real-time aircraft tracking and intelligent flight data.
@@ -158,7 +168,6 @@ AI-powered resume builder for **students, freshers, and professionals**, featuri
 
 <br/><br/>
 
-
 ### 🏥 MedVitals.AI
 
 AI-powered assistant built with **Python and Streamlit**, supporting symptom analysis, medical images, videos, voice input, voice responses, PDF reports and chat history.
@@ -169,26 +178,15 @@ AI-powered assistant built with **Python and Streamlit**, supporting symptom ana
 
 <br/><br/>
 
-### 🧠 DSA in C++
-
-A complete Data Structures & Algorithms (DSA) journey in C++ with beginner-friendly solutions, patterns, and problem-solving practice.
-
-<a href="https://github.com/arish096/DSA-IN-Cpp">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=18122B" />
-</a>
-
-<br/><br/>
-
 ### 🎨 AI YouTube Thumbnail Generator
 
-AI-powered thumbnail creation platform built with **Lovable AI / TypeScript**.
+AI-powered thumbnail creation platform built with **Lovable AI and TypeScript**, designed to simplify creative thumbnail generation.
 
 <a href="https://github.com/arish096/ai-youtube-thumbnail-generator">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
-
 ---
 <!-- ==================== GITHUB COMMAND CENTER ==================== -->
 
